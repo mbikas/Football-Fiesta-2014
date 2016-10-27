@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<teams>
+  <team>
+	<id>BRA</id>
+    <name>Brazil</name>
+    <nickname>Seleção</nickname>
+	<region>South America</region>
+	<rank>3</rank>
+    <coach>Luiz Felipe Scolari</coach>
+    <captain>Thiago Silva </captain>
+    <appearances>19</appearances>
+	<best_results>Winners, 2002, 1994, 1970, 1962, 1958</best_results>
+	<key_players count="2">
+		<key_player>Neymar</key_player>	
+		<key_player>David Luiz</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>CRO</id>
+    <name>Croatia</name>
+    <nickname>Vatreni (The Blazers)</nickname>
+	<region>Europe</region>
+	<rank>18</rank>
+    <coach>Niko Kovač</coach>
+    <captain>Darijo Srna</captain>
+    <appearances>4</appearances>
+	<best_results>Third place, 1998</best_results>
+	<key_players count="2">
+		<key_player>Luka Modrić</key_player>	
+		<key_player>Mario Mandžukić</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>MEX</id>
+    <name>Mexico</name>
+    <nickname>El Tricolor</nickname>
+	<region>North and Central America</region>
+	<rank>20</rank>
+    <coach>Miguel Herrera</coach>
+    <captain>Rafael Marquez </captain>
+    <appearances>14</appearances>
+	<best_results>Quarter-finals, 1970 and 1986</best_results>
+	<key_players count="2">
+		<key_player>Javier Hernandez</key_player>	
+		<key_player></key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>CMR</id>
+    <name>Cameroon</name>
+    <nickname>Les Lions Indomptables</nickname>
+	<region>Africa</region>
+	<rank>56</rank>
+    <coach>Volker Finke</coach>
+    <captain>Samuel Eto'o</captain>
+    <appearances>7</appearances>
+	<best_results>Quarter-finals, 1990</best_results>
+	<key_players count="2">
+		<key_player>Samuel Eto'o</key_player>	
+		<key_player></key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>ESP</id>
+    <name>Spain</name>
+	<nickname>La Roja (The Red [One])</nickname>
+	<region>Europe</region>
+	<rank>1</rank>
+    <coach>Vicente del Bosque</coach>
+    <captain>Iker Casillas</captain>
+    <appearances>14</appearances>
+	<best_results>Winners, 2010</best_results>
+	<key_players count="2">
+		<key_player>Andres Iniesta</key_player>	
+		<key_player>Cesc Fabregas</key_player>	
+		<key_player>Juan Mata</key_player>	
+		<key_player>David Silva</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>NED</id>
+    <name>Netherlands</name>
+	<nickname>The Flying Dutchmen</nickname>
+	<region>Europe</region>
+	<rank>15</rank>
+    <coach>Louis van Gaal</coach>
+    <captain>Robin van Persie</captain>
+    <appearances>9</appearances>
+	<best_results>Runners-up, 1974, 1978 and 2010</best_results>
+	<key_players count="2">
+		<key_player>Robin van Persie</key_player>	
+		<key_player>Arjen Robben</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>CHL</id>
+    <name>Chile</name>
+	<nickname>La Roja (The Red One)</nickname>
+	<region>South America</region>
+	<rank>14</rank>
+    <coach>Jorge Sampaoli</coach>
+    <captain>Claudio Bravo</captain>
+    <appearances>9</appearances>
+	<best_results>Third place, 19962</best_results>
+	<key_players count="2">
+		<key_player>Arturo Vidal</key_player>	
+		<key_player>Alexis Sanchez</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>AUS</id>
+    <name>Australia</name>
+	<nickname>Socceroos</nickname>
+	<region>Asia</region>
+	<rank>61</rank>
+    <coach>Ange Postecoglou</coach>
+    <captain>Lucas Neill</captain>
+    <appearances>4</appearances>
+	<best_results>Round of 16, 2006</best_results>
+	<key_players count="2">
+		<key_player>Robbie Kruse</key_player>	
+		<key_player>Mitchell Langerak</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>COL</id>
+    <name>Colombia</name>
+	<nickname>Los Cafeteros (The Coffee Growers)</nickname>
+	<region>South America</region>
+	<rank>8</rank>
+    <coach>José Pékerman</coach>
+    <captain>Mario Yepes</captain>
+    <appearances>5</appearances>
+	<best_results>Round of 16, 1990</best_results>
+	<key_players count="2">
+		<key_player>Radamel Falcao Garcia</key_player>	
+		<key_player>James Rodriguez</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>GRC</id>
+    <name>Greece</name>
+	<nickname>Galanolefki (Sky blue-white)</nickname>
+	<region>Europe</region>
+	<rank>12</rank>
+    <coach>Fernando Santos</coach>
+    <captain>Giorgos Karagounis</captain>
+    <appearances>3</appearances>
+	<best_results>Round 1, 1994 and 2010</best_results>
+	<key_players count="2">
+		<key_player></key_player>	
+		<key_player></key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>CIV</id>
+    <name>Côte d'Ivoire</name>
+	<nickname>Les Éléphants (The Elephants)</nickname>
+	<region>Africa</region>
+	<rank>23</rank>
+    <coach>Sabri Lamouchi</coach>
+    <captain>Didier Drogba</captain>
+    <appearances>2</appearances>
+	<best_results>Round 1: 2006, 2010</best_results>
+	<key_players count="2">
+		<key_player>Didier Drogba</key_player>	
+		<key_player>Yaya Touré</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>JPN</id>
+    <name>Japan</name>
+	<nickname>サムライ・ブルー (Samurai Blue)</nickname>
+	<region>Asia</region>
+	<rank>46</rank>
+    <coach>Alberto Zaccheroni</coach>
+    <captain>Makoto Hasebe</captain>
+    <appearances>5</appearances>
+	<best_results>Round of 16, 2002, 2010</best_results>
+	<key_players count="2">
+		<key_player>Keisuke Honda</key_player>	
+		<key_player>Shinji Kagawa</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>URY</id>
+    <name>Uruguay</name>
+	<nickname>La Celeste (The Sky Blue One)</nickname>
+	<region>South America</region>
+	<rank>7</rank>
+    <coach>Óscar Tabárez</coach>
+    <captain>Diego Lugano</captain>
+    <appearances>12</appearances>
+	<best_results>Winners, 1930 and 1950</best_results>
+	<key_players count="2">
+		<key_player>Edinson Cavani</key_player>	
+		<key_player>Luis Suarez</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>CRI</id>
+    <name>Costa Rica</name>
+	<nickname>La Sele</nickname>
+	<region>North and Central America</region>
+	<rank>27</rank>
+    <coach>Jorge Luis Pinto</coach>
+    <captain>Bryan Ruiz</captain>
+    <appearances>4</appearances>
+	<best_results>Round of 16; 1990</best_results>
+	<key_players count="2">
+		<key_player>Bryan Ruiz</key_player>	
+		<key_player></key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>GBR</id>
+    <name>England</name>
+	<nickname>The Three Lions</nickname>
+	<region>Europe</region>
+	<rank>10</rank>
+    <coach>Roy Hodgson</coach>
+    <captain>Steven Gerrard</captain>
+    <appearances>14</appearances>
+	<best_results>Winners: 1966</best_results>
+	<key_players count="2">
+		<key_player>Wayne Rooney</key_player>	
+		<key_player>Jack Wilshere</key_player>	
+		<key_player>Joe Hart</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>ITA</id>
+    <name>Italy</name>
+	<nickname>Gli Azzurri(The Blues)</nickname>
+	<region>Europe</region>
+	<rank>9</rank>
+    <coach>Cesare Prandelli</coach>
+    <captain>Gianluigi Buffon</captain>
+    <appearances>18</appearances>
+	<best_results>Winners, 1934, 1938, 1982, 2006</best_results>
+	<key_players count="2">
+		<key_player>Mario Balotelli</key_player>	
+		<key_player>Giorgio Chiellini</key_player>	
+		<key_player>Claudio Marchisio</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>CHE</id>
+    <name>Switzerland</name>
+	<nickname>Rossocrociati</nickname>
+	<region>Europe</region>
+	<rank>6</rank>
+    <coach>Ottmar Hitzfeld</coach>
+    <captain>Gökhan Inler</captain>
+    <appearances>10</appearances>
+	<best_results>Quarter Final, 1934, 1938, 1954</best_results>
+	<key_players count="2">
+		<key_player>Xherdan Shaqiri</key_player>	
+		<key_player>Gökhan Inler</key_player>		
+	</key_players>
+  </team>
+  <team>
+	<id>ECU</id>
+    <name>Ecuador</name>
+	<nickname>La Tri (Tri-color)</nickname>
+	<region>South America</region>
+	<rank>26</rank>
+    <coach>Reinaldo Rueda</coach>
+    <captain>Antonio Valencia</captain>
+    <appearances>3</appearances>
+	<best_results>Second Round, 2006</best_results>
+	<key_players count="2">
+		<key_player>Antonio Valencia</key_player>	
+		<key_player>Christian Noboa</key_player>		
+	</key_players>
+  </team>
+  <team>
+	<id>FRA</id>
+    <name>France</name>
+	<nickname>Les Blues (The Blues)</nickname>
+	<region>Europe</region>
+	<rank>17</rank>
+    <coach>Didier Deschamps</coach>
+    <captain>Hugo Lloris</captain>
+    <appearances>14</appearances>
+	<best_results>Winners, 1998</best_results>
+	<key_players count="2">
+		<key_player>Karim Benzema</key_player>
+		<key_player>Olivier Giroud</key_player>
+		<key_player>Samir Nasri</key_player>
+	</key_players>
+  </team>
+  <team>
+	<id>HND</id>
+    <name>Honduras</name>
+	<nickname>Los Catrachos</nickname>
+	<region>North and Central America</region>
+	<rank>31</rank>
+    <coach>Luis Fernando Suárez</coach>
+    <captain>Noel Valladares</captain>
+    <appearances>3</appearances>
+	<best_results>First Round, 1982,2010</best_results>
+	<key_players count="2">
+		<key_player>Roger Espinoza</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>ARG</id>
+    <name>Argentina</name>
+	<nickname>La Albiceleste (The White and Sky Blue)</nickname>
+	<region>South America</region>
+	<rank>5</rank>
+    <coach>Alejandro Sabella</coach>
+    <captain>Lionel Messi</captain>
+    <appearances>15</appearances>
+	<best_results>Winners, 1978,1986</best_results>
+	<key_players count="2">
+		<key_player>Lionel Messi</key_player>
+		<key_player>Ángel di María</key_player>
+		<key_player>Sergio Agüero</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>BIH</id>
+    <name>Bosnia and Herzegovina</name>
+	<nickname>Zmajevi (Dragons)</nickname>
+	<region>Europe</region>
+	<rank>21</rank>
+    <coach>Safet Sušić</coach>
+    <captain>Emir Spahić</captain>
+    <appearances>1</appearances>
+	<best_results>N/A</best_results>
+	<key_players count="2">
+		<key_player>Edin Džeko</key_player>
+	</key_players>
+  </team>
+  <team>
+	<id>IRN</id>
+    <name>Iran</name>
+	<nickname>Shirane Iran - The Iranian Lions</nickname>
+	<region>Asia</region>
+	<rank>43</rank>
+    <coach>Carlos Queiroz</coach>
+    <captain>Javad Nekounam</captain>
+    <appearances>4</appearances>
+	<best_results>First Round, 1978,1998,2006</best_results>
+	<key_players count="2">
+		<key_player>Karim Ansarifard</key_player>
+	</key_players>
+  </team>
+  <team>
+	<id>NGA</id>
+    <name>Nigeria</name>
+	<nickname>Super Eagles</nickname>
+	<region>Africa</region>
+	<rank>44</rank>
+    <coach>Stephen Keshi</coach>
+    <captain>Vincent Enyeama</captain>
+    <appearances>2</appearances>
+	<best_results>Second Round, 1994,1998</best_results>
+	<key_players count="2">
+		<key_player>John Obi Mikel</key_player>
+		<key_player>Victor Moses</key_player>
+	</key_players>
+  </team>
+  <team>
+	<id>GER</id>
+    <name>Germany</name>
+    <nickname>Die Adler (The Eagles)</nickname>
+	<region>Europe</region>
+	<rank>2</rank>
+    <coach>Joachim Löw</coach>
+    <captain>Philipp Lahm</captain>
+    <appearances>17</appearances>
+	<best_results>Winners, 1954,1974,1990</best_results>
+	<key_players count="2">
+		<key_player>Thomas Müller</key_player>	
+		<key_player>Bastian Schweinsteiger</key_player>
+		<key_player>Mario Gómez</key_player>
+		<key_player>Manuel Neuer</key_player>
+		<key_player>Mesut Özil</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>PRT</id>
+    <name>Portugal</name>
+	<nickname>A Selecção</nickname>
+	<region>Europe</region>
+	<rank>4</rank>
+    <coach>Paulo Bento</coach>
+    <captain>Cristiano Ronaldo</captain>
+    <appearances>5</appearances>
+	<best_results>Third place, 1966</best_results>
+	<key_players count="2">
+		<key_player>Cristiano Ronaldo</key_player>	
+		<key_player>Nani</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>GHA</id>
+    <name>Ghana</name>
+    <nickname>Black Stars</nickname>
+	<region>Africa</region>
+	<rank>37</rank>
+    <coach>Akwasi Appiah</coach>
+    <captain>Asamoah Gyan</captain>
+    <appearances>2</appearances>
+	<best_results>Seventh place, 2010</best_results>
+	<key_players count="2">
+		<key_player>Daniel Boateng</key_player>	
+		<key_player>Michael Essien</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>USA</id>
+    <name>USA</name>
+    <nickname>The Yanks</nickname>
+	<region>North and Central America</region>
+	<rank>13</rank>
+    <coach>Jürgen Klinsmann</coach>
+    <captain>Clint Dempsey</captain>
+    <appearances>10</appearances>
+	<best_results>Third place, 1930</best_results>
+	<key_players count="2">
+		<key_player>Landon Donovan</key_player>	
+		<key_player>Eddie Johnson</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>BEL</id>
+    <name>Belgium</name>
+    <nickname>Rote Teufel (Red Devils)</nickname>
+	<region>Europe</region>
+	<rank>11</rank>
+    <coach>Marc Wilmots</coach>
+    <captain>Vincent Kompany</captain>
+    <appearances>12</appearances>
+	<best_results>Fourth place, 1986</best_results>
+	<key_players count="2">
+		<key_player>Vincent Kompany</key_player>	
+		<key_player>Eden Hazard</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>DZA</id>
+    <name>Algeria</name>
+    <nickname>الأفناك (Fennec Foxes)</nickname>
+	<region>Africa</region>
+	<rank>22</rank>
+    <coach>Vahid Halilhodžić</coach>
+    <captain>Madjid Bougherra</captain>
+    <appearances>4</appearances>
+	<best_results>First Round, 1982,1986,2010</best_results>
+	<key_players count="2">
+		<key_player>Medhi Lacen</key_player>	
+		<key_player>Madjid Bougherra</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>RUS</id>
+    <name>Russia</name>
+    <nickname>Sbornaya</nickname>
+	<region>Europe</region>
+	<rank>19</rank>
+    <coach>Fabio Capello</coach>
+    <captain>Sergei Ignashevich</captain>
+    <appearances>10</appearances>
+	<best_results>Fourth place, 1966</best_results>
+	<key_players count="2">
+		<key_player>Igor Akinfeev</key_player>	
+		<key_player>Igor Denisov</key_player>	
+	</key_players>
+  </team>
+  <team>
+	<id>KOR</id>
+    <name>Korea Republic</name>
+    <nickname>Taegeuk Warriors</nickname>
+	<region>Asia</region>
+	<rank>57</rank>
+    <coach>Hong Myung-Bo</coach>
+    <captain>Lee Chung-Yong</captain>
+    <appearances>9</appearances>
+	<best_results>Fourth place, 2002</best_results>
+	<key_players count="2">
+		<key_player>Park Chu-Young</key_player>	
+		<key_player>Lee Keun-Ho</key_player>	
+	</key_players>
+  </team>
+</teams>

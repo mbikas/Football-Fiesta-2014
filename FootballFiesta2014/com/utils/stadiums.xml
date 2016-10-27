@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stadiums>
+		<stadium>
+			<id>1</id>
+			<name>Estadio Mineirao</name>
+			<imageName>mineirao.jpg</imageName>
+			<imageNameBig>mineirao_big.jpg</imageNameBig>
+			<city>Belo Horizonte</city>
+			<year>1965</year>
+			<capacity>62547</capacity>
+			<description>One of the most historic venues in Brazilian football and called home by Atletico Mineiro and Cruzeiro, both former national champions, the 57,483 capacity Estadio Mineirao has undergone a complete overhaul prior to hosting six matches at the 2014 FIFA World Cup - including one semi-final.
+		
+	The modernisation project included the lowering of the pitch surface and improving stadium accessibility, among other issues, with sustainability principles at the core of all work carried out. Exemplifying this approach is the facility to capture and store up to 6,270,000 litres of rainwater, which can then be reused.
+
+	Located in the Pampulha neighbourhood of Belo Horizonte and inaugurated on 5 December 1965, the stadium belongs to the Minas Gerais state government. Going by the official name of the Estadio Governador Magalhaes Pinto, in footballing circles it is almost universally known as the Mineiro
+
+	Boasting an enthusiastic and vibrant atmosphere on matchdays, whether it be O Galo (Atletico Mineiro) or A Raposa (Cruzeiro) that are playing at home, the Mineiro has also proved a worthy setting for Brazilian national team matches including A Seles clashes with arch-rivals Argentina in FIFA World Cup qualifying encounters in 2004 and 2008.
+
+	What is more, the stadium has been regularly graced over the years by attacking legends such as Ronaldo, Tostao, Reinaldo and Dario. 
+			</description>
+		</stadium>
+		<stadium>
+			<id>2</id>
+			<name>Estadio Nacional de Brasilia</name>
+			<imageName>Brasilia.jpg</imageName>
+			<imageNameBig>Brasilia_big.jpg</imageNameBig>
+			<city>Brasilia</city>
+			<year>2012</year>
+			<capacity>68009</capacity>
+			<description>
+	Few Brazilian cities can match the capital Brasilia when it comes to architecture, and the imposing Estadio Nacional Mane Garrincha is a reflection of that, an arena with seating for 68,009 spectators, making it the second largest of the stadiums hosting matches at the 2014 FIFA World Cup Brazil.
+
+	The citys Estadio Nacional has been all but demolished to make way for the stadium, which boasts a new facade, metal roof and stands, as well as a lowered pitch enabling unobstructed views from every seat.
+
+	Founded on carbon neutrality, recycling and complete access via public transport, this environmentally friendly construction project consolidates Brasilias status as a world leader in sustainable urban planning, creating a valuable legacy for other sectors of the local economy.
+
+	The Estadio Nacional will host the Opening Match at the FIFA Confederations Cup Brazil 2013 and seven games at the 2014 FIFA World Cup Brazil, one of them a quarter-final tie.
+
+	The stadium will be Brasilias third, along with the Serejao, the home of Brasiliense, and the Bezerrao, which was recently refurbished and reopened in 2008. Following the world finals the arena will be used to host concerts and major cultural events. 
+			</description>
+		</stadium>
+		<stadium>
+			<id>3</id>
+			<name>Maracanã</name>
+			<imageName>Maracana.jpg</imageName>
+			<imageNameBig>Maracana_big.jpg</imageNameBig>
+			<city>Rio de Janeiro</city>
+			<year>1950</year>
+			<capacity>71159</capacity>
+			<description>
+				Maracanã, officially called Estádio Mário Filho, was built to serve as the flagship venue for the 1950 World Cup. It was meant to become the biggest football stadium in the world.
+				Construction began in August 1948 and was completed almost two years later. Maracanã officially opened on the 16th of June 1950 with a friendly between a selection of players from Rio de Janeiro and São Paulo.
+				Eight days later, Maracanã hosted the opening match of the 1950 World Cup between Brazil and Mexico (4-0). It would go on to host four more matches in the first round group stage and a further three in the second round stage, among which the deciding final match between Uruguay and Brazil (2-1).
+				The official attendance of the final was about 173,000 paying spectators, but it is estimated that more than 200,000 witnessed the game live from the stands.
+				The stadium was officially renamed in 1966 following the death of Brazilian journalist Mário Filho, but most people have kept referring to the stadium as Maracanã.
+				Maracanã hardly changed until the 1990s when a deathly accident and resulting safety measures greatly reduced capacity. Shortly later it got converted into an all-seater.
+				When Brazil got awarded the 2014 World Cup in 2007, it was clear that Maracanã, which was destined to host the final, would need a massive redevelopment.
+				Building works started in 2010, and involved the complete rebuilding of the bottom tier and the installation of a new roof, with a capacity of 79,000 seats as a result. The stadium is set to reopen on the 2nd of June 2013 with a friendly international between Brazil and England.
+				Maracanã is scheduled to host a total of seven matches during the 2014 World Cup, including one quarter-final and the final. It will also host the final of the 2013 Confederations Cup.
+				Maracanã is owned by the state of Rio de Janeiro, but has grown to become the regular home of Flamengo and Fluminense. Other Rio clubs have also occasionally used the stadium, in particular for high-profile matches.
+			</description>
+		</stadium>
+		<stadium>
+			<id>4</id>
+			<name>Arena de São Paulo (Arena Corinthians) </name>
+			<imageName>adsp.jpg</imageName>
+			<imageNameBig>adsp_big.jpg</imageNameBig>
+			<city>São Paulo</city>
+			<year>2014</year>
+			<capacity>68000</capacity>
+			<description>
+				The Arena Corinthians, also referred to as Arena de Itaquera and Arena de Sao Paulo, got built to serve as a playing venue for the 2014 FIFA World Cup and to provide Corinthians with an own home.
+
+				Building works started in May 2011 and were planned to be completed in December 2013. However, an incident in which a crane and part of the roof structure collapsed, killing two workers, meant that the opening is expected to get pushed back to 2014.
+
+				The Arena Corinthians will have a capacity of 48,000 seats, but for the purpose of the World Cup another 20,000 will be added. During the World Cup, it will host the opening match, three further group matches, a round of 16 match, and one of the two semi-finals.
+
+				After the World Cup, the arena will become the new home of Corinthians, who currently rent the city-owned Estádio do Pacaembu. 
+			</description>
+		</stadium>
+		<stadium>
+			<id>5</id>
+			<name>Arena Castelão</name>
+			<imageName>castelao.jpg</imageName>
+			<imageNameBig>castelao_big.jpg</imageNameBig>
+			<city>Fortaleza</city>
+			<year>1973</year>
+			<capacity>57747</capacity>
+			<description>
+				Arena Castelão, originally called Estádio Governador Plácido Aderaldo Castelo, opened on the 11th of November 1973 with a match between Ceará and Fortaleza (0-0).
+
+				The stadium was built at the initiative of state governor Plácido Castelo, after whom the stadium got subsequently named. It soon got referred to as Castelão though after the area it stands in.
+
+				Castelão initially consisted of one small continuous oval-shaped tier and large ramps at both sides. The stadium did not have cover yet and could hold about 70,000 fans.
+
+				In 1980, the second tier was extended over the entire stadium, and soon after an estimated 118,000 people attended an international between Brazil and Uruguay.
+
+				The stadium received cover in 2002 and subsequent renovations brought back capacity to about 60,000.
+
+				Not much later, Castelão got selected as one of the playing venues of the 2014 World Cup, and therefore required a more substantial redevelopment.
+
+				Works started early 2011 and involved the demolition and reconstruction of the bottom tier, the installation of a new roof, and the refurbishment of the rest of the stadium. The stadium officially reopened on the 16th of December 2012. At the same time it got renamed Arena Castelão.
+
+				Arena Castelão is scheduled to host six matches at the World Cup, which include one round of 16 match and a quarter-final. The stadium will also be one of the playing venues of the 2013 Confederations Cup.
+			</description>
+		</stadium>
+		<stadium>
+			<id>6</id>
+			<name>Itaipava Arena Fonte Nova</name>
+			<imageName>fonte-nova.jpg</imageName>
+			<imageNameBig>fonte-nova_big.jpg</imageNameBig>
+			<city>Salvador</city>
+			<year>2013</year>
+			<capacity>49280</capacity>
+			<description>
+				Itaipava Arena Fonte Nova was built to serve as one of the playing venues of the 2014 World Cup. It replaced the old Estádio Fonte Nova, which had stood at the same place.
+
+				The new arena got designed to resemble the old one with one of the ends left open to provide for a view over the adjacent lake.
+
+				Estádio Fonte Nova got demolished in 2010 and construction of the new stadium took about two-and-a-half years. It got completed in early 2013 and officially opened on the 5th of April 2013. The first match, a friendly between local rivals Bahia and Vitória, was played two days later.
+
+				Itaipava Arena Fonte Nova has been selected to host six matches at the 2014 World Cup, including one round of 16 match and a quarter-final. It will also be one of the six playing venues of the 2013 Confederations Cup.
+
+				Arena Fonte Nova holds a total of 2,100 premium seats and a further 1,200 seats in 70 VIP boxes.
+			</description>
+		</stadium>
+		<stadium>
+			<id>7</id>
+			<name>Estádio Beira-Rio</name>
+			<imageName>beirario.jpg</imageName>
+			<imageNameBig>beirario_big.jpg</imageNameBig>
+			<city>Porto Alegre</city>
+			<year>1969</year>
+			<capacity>42153</capacity>
+			<description>
+					Estádio Beira-Rio officially opened on the 6th of April 1969 with a friendly against Benfica (2-1). Construction of the stadium had started a decade earlier following a period of successes of Internacional, which had resulted in their Estádio dos Eucaliptos becoming too small.
+
+					In 1956, the city of Porto Alegre had donated the club a site in the river Guaíba, which it first had to drain before they could start construction. Building works started in 1959, but due to a lack of finances Internacional heavily relied on fans contributing the bricks, cement, and iron works. As a result, works progressed very slowly and it took a decade for construction to complete.
+
+					Estádio Beira-Rio, soon after its opening nicknamed O Gigante, hardly changed over the next decades. It was only when it got chosen as one of the playing venues of the 2014 World Cup that an extensive redevelopment was announced.
+
+					The redevelopment includes the demolition and reconstruction of the lower tier of the stadium, and the construction of a new exterior and roof.
+
+					Works started in December 2012, but got soon plagued by financing issues and consequent delays. Works are currently expected to be completed in December 2013.
+
+					During the 2014 World Cup, Estádio Beira-Rio is set to host four group matches and one round of 16 match.
+			</description>
+		</stadium>
+		<stadium>
+			<id>8</id>
+			<name>Itaipava Arena Pernambuco</name>
+			<imageName>arenapernambuco.jpg</imageName>
+			<imageNameBig>arenapernambuco_big.jpg</imageNameBig>
+			<city>Recife</city>
+			<year>2013</year>
+			<capacity>40604</capacity>
+			<description>
+			Itaipava Arena Pernambuco was built to serve as the 2014 World Cup venue of the city of Recife. Construction of the stadium started in October 2010 and got completed in May 2013.
+
+			The Arena Pernambuco officially opened on the 22nd of May 2013 with a friendly match between Náutico and Portuguese side Sporting Portugal.
+
+			The arena came at a cost of R$500 million, which was financed by a public-private partnership between the state of Pernambuco and a consortium led by construction firm Odebrecht including event management firm AEG. The latter will exploit the arena for multifunctional purposes. The naming rights were sold to beer brewer Itaipava.
+
+			Itaipava Arena Pernambuco is scheduled to host five matches at the 2014 World Cup, of which one of the round of 16 matches. It will also be one of the playing venues of the 2013 Confederations Cup.
+			</description>
+		</stadium>
+		<stadium>
+			<id>9</id>
+			<name>Arena da Amazônia</name>
+			<imageName>arenadaamazonia.jpg</imageName>
+			<imageNameBig>arenadaamazonia_big.jpg</imageNameBig>
+			<city>Manaus</city>
+			<year>2014</year>
+			<capacity>39573</capacity>
+			<description>
+			The Arena da Amazônia got built following the selection of the city of Manaus as a host city of the 2014 FIFA World Cup. The arena was built in the place of the old Vivaldão stadium, which used to be the main stadium of the city.
+
+			Demolition of Vivaldão started in March 2010, and in early 2011 construction began of the new stadium. The Arena da Amazônia was initially planned to be completed early 2013, but various delays pushed the opening back to early 2014.
+
+			The Arena da Amazônia was designed by German architecture firm gmp Architekten, also responsible for Frankfurt’s Commerzbank Arena and Warsaw’s Stadion Narodowy. The shape of the stadium is meant to resemble a traditional indigenous basket and takes into account the area’s challenging climatic conditions. The roof’s steel structure is designed to serve as a large gutter that drains the tropical rain water, the roof’s coating reflects heat radiation and thus has a cooling effect, openings in the roof and facade stimulate ventilation, and there are ample areas of shade where spectators can shelter from the sun.
+
+			During the 2014 World Cup, the Arena da Amazônia will host four group matches. Upon completion it will get used by local sides Nacional Futebol Clube, Rio Negro, São Raimundo, Fast Clube, and Sul América.
+			</description>
+		</stadium>
+		<stadium>
+			<id>10</id>
+			<name>Arena Pantanal</name>
+			<imageName>arenapantanal.jpg</imageName>
+			<imageNameBig>arenapantanal_big.jpg</imageNameBig>
+			<city>Cuiabá</city>
+			<year>2014</year>
+			<capacity>39553</capacity>
+			<description>
+			The Arena Pantenal was built to serve as the playing venue of the city of Cuiabá for the 2014 FIFA World Cup. It replaced the old Estádio José Fragelli (Verdão), which used to be the principal football stadium of the city.
+
+			Verdão got demolished in 2010, and works on the new stadium commenced later that year. Subsequent delays have pushed back completion repeatedly and late 2013 it was communicated that the stadium would not be ready before the official deadline. It is now expected to be completed in January 2014.
+
+			The Arena Pantanal will have a capacity of 43,000 seats for the World Cup, but about 15,000 seats will be removed after the tournament, which will result in a final capacity of 28,000 seats. This will be achieved by dismantling the upper parts of both ends.
+
+			The architects GCP Arquitetos have focused strongly on sustainability and one of the stadium’s noticeable features are the plants and trees that will fill the four corner areas.
+
+			During the 2014 World Cup, the Arena Pantanal will host a total of four group matches. Following completion, the stadium will become the permanent home of local sides Mixto EC and Cuiabá EC.
+			</description>
+		</stadium>
+		<stadium>
+			<id>11</id>
+			<name>Arena das Dunas</name>
+			<imageName>arenadasdunas.jpg</imageName>
+			<imageNameBig>arenadasdunas_big.jpg</imageNameBig>
+			<city>Natal</city>
+			<year>2013</year>
+			<capacity>39304</capacity>
+			<description>
+			The Arena das Dunas got built to serve as one of the playing venues for the 2014 FIFA World Cup. It replaced the old Machadão stadium, which got demolished in October 2011.
+
+			Construction of the stadium progressed slowly and it was only completed in December 2013, six months before the start of the World Cup.
+
+			The Arena das Dunas is scheduled to host four group matches during the World Cup. After the tournament, the arena will become the home of local side América de Natal, while ABC FC will occasionally use the arena for important matches. Its capacity will get reduced with 10,000 places to a final 33,000 seats.
+
+			The design of the stadium by architecture firm Populous is inspired by Natal’s famous sand dunes. Its most characteristic features are the upper tier and roof in the shape of petals. The space between the petals allows the on-shore sea breezes to flow into the stadium while the roof shield the spectators from the at times intense sunlight. 
+			</description>
+		</stadium>
+		<stadium>
+			<id>12</id>
+			<name>Arena da Baixada</name>
+			<imageName>arena-da-baixada.jpg</imageName>
+			<imageNameBig>arena-da-baixada_big.jpg</imageNameBig>
+			<city>Curitiba</city>
+			<year>1999</year>
+			<capacity>37634</capacity>
+			<description>
+			The Arena da Baixada, also referred to as Arena CAP, got built in the late 1990s in the place of Atlético’s old Estádio Joaquim Américo Guimarães. It officially opened on the 20th of June 1999 and was considered one of the most modern stadiums of Latin America at that time.
+
+			The stadium could initially hold about 30,000 spectators and was temporarily renamed Kyocera Arena in the mid 2000s following a naming rights deal.
+
+			In 2009, the Arena da Baixada got selected as one of the playing venues of the 2014 World Cup, and despite having been opened only a decade earlier, had to undergo a thorough redevelopment to comply with FIFA requirements.
+
+			Building works started late 2011, but delays meant that the expected reopening in the summer of 2013 had to get delayed until later that year. The total cost of the project was budgeted to be R$ 234 million.
+
+			During the 2014 World Cup, the Arena da Baixada will host four matches in the first group stage.
+			</description>
+		</stadium>
+	
+</stadiums>

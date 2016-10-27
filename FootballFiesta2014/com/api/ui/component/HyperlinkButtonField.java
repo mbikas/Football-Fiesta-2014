@@ -1,0 +1,198 @@
+/*
+ * HyperlinkButtonField.java
+ */
+
+package com.api.ui.component;
+
+import net.rim.device.api.system.Characters;
+import net.rim.device.api.ui.Field;
+import net.rim.device.api.ui.Font;
+import net.rim.device.api.ui.Color;
+import net.rim.device.api.ui.Graphics;
+import net.rim.device.api.ui.MenuItem;
+import net.rim.device.api.ui.XYRect;
+import net.rim.device.api.ui.component.LabelField;
+
+import com.utils.Utils;
+
+
+public class HyperlinkButtonField extends LabelField
+{
+    private int _textColour;
+    private int _textColourFocus;
+    private int _highlightColour;
+    
+    private int _menuOrdinal;
+    private int _menuPriority;
+    
+    private XYRect _tmpRect = new XYRect();
+    
+    /*
+    public HyperlinkButtonField( String text, int textColour, int highlightColour, int menuOrdinal, int menuPriority )
+    {
+        this( text, textColour, textColour, highlightColour, menuOrdinal, menuPriority );
+    }
+    */   
+    
+    public HyperlinkButtonField( String text, int textColour, int textColourFocus, int menuOrdinal, int menuPriority )
+    {
+        this( text, textColour, textColourFocus, Color.LIGHTBLUE, menuOrdinal, menuPriority );
+    } 
+     
+    public HyperlinkButtonField( String text, int textColour, int textColourFocus, int highlightColour, int menuOrdinal, int menuPriority )
+    {
+        this( text, textColour, textColourFocus, highlightColour, menuOrdinal, menuPriority, 0 );
+    }
+
+
+    public HyperlinkButtonField( String text, int textColour, int textColourFocus, int highlightColour, int menuOrdinal, int menuPriority, long style )
+    {
+        super( text, Field.FOCUSABLE | style );
+
+        _textColour = textColour;
+        _textColourFocus = textColourFocus;
+        _highlightColour = highlightColour;
+        _menuOrdinal = menuOrdinal;
+        _menuPriority = menuPriority;
+    }
+    
+    public void applyFont()
+    {
+        //Font underlineFont = getFont().derive( Font.UNDERLINED );
+        //setFont( underlineFont );   
+    }
+    
+    protected void paint( Graphics g ) 
+    {
+        int oldColour = g.getColor();
+        try {           
+            if(g.isDrawingStyleSet( Graphics.DRAWSTYLE_FOCUS ) ) {
+                g.setColor( _textColourFocus );
+            } else {
+                g.setColor( _textColour );
+            }
+            super.paint( g );
+        } finally {
+            g.setColor( oldColour );
+        }
+    }
+    
+    protected void drawFocus( Graphics g, boolean on ) 
+    {
+        getFocusRect( _tmpRect );
+
+        boolean oldDrawStyleFocus = g.isDrawingStyleSet( Graphics.DRAWSTYLE_FOCUS );
+        int oldBackgroundColour = g.getBackgroundColor();
+        
+        boolean notEmpty = g.pushContext( _tmpRect.x, _tmpRect.y, _tmpRect.width, _tmpRect.height, 0, 0 );
+        try {
+            if( notEmpty ) {
+                if( on ) {
+                    g.setDrawingStyle( Graphics.DRAWSTYLE_FOCUS, true );
+                    g.setBackgroundColor( _highlightColour );
+                }
+                g.clear();
+                paint( g );
+            }
+        } finally {
+            g.popContext();
+            g.setBackgroundColor( oldBackgroundColour );
+            g.setDrawingStyle( Graphics.DRAWSTYLE_FOCUS, oldDrawStyleFocus );
+        }
+    }
+            
+            
+    protected boolean keyChar( char character, int status, int time ) 
+    {
+        if( character == Characters.ENTER ) {
+            fieldChangeNotify( 0 );
+            return true;
+        }
+        return super.keyChar( character, status, time );
+    }
+
+    protected boolean trackwheelClick( int status, int time ) {        
+        keyChar(Characters.ENTER, status, time );            
+        return true;
+    }
+
+    protected boolean invokeAction( int action ) 
+    {
+        switch( action ) {
+            case ACTION_INVOKE: {
+                fieldChangeNotify( 0 );
+                return true;
+            }
+        }
+        return super.invokeAction( action );
+    }
+    
+    /**
+     * Overridden so that the Event Dispatch thread can catch this event
+     * instead of having it be caught here.
+     * @see net.rim.device.api.ui.Field#navigationClick(int, int)
+     */
+    /*
+    protected boolean navigationClick(int status, int time) 
+    {
+        fieldChangeNotify(0);
+        return true;
+    }*/
+            
+
+    public void setDirty( boolean dirty ) 
+    {
+        // We never want to be dirty or muddy
+    }
+    
+            
+    public void setMuddy( boolean muddy ) 
+    {
+        // We never want to be dirty or muddy
+    }
+    
+    
+    public String getMenuText()
+    {
+        return getText();
+    }
+    
+
+    /**
+     * Returns a MenuItem that could be used to invoke this link.
+     */
+    public MenuItem getMenuItem()
+    {
+        if( _menuOrdinal < 0
+         || _menuPriority < 0 ) {
+            return null;
+        }
+        return new MenuItem( getMenuText(), _menuOrdinal, _menuPriority ) {
+            public void run() {
+                fieldChangeNotify( 0 );
+            }
+        };
+    }
+    
+    private String name= "";
+    public void setButtonName(String name)
+    {
+        this.name = name;
+    }
+    
+    public String getButtonName()
+    {
+        return this.name;
+    }    
+    private int buttonId = 0;
+    public void setButtonId(int buttonId)
+    {
+        this.buttonId = buttonId;
+    }
+    
+    public int getButtonId()
+    {
+        return this.buttonId;
+    }
+            
+}

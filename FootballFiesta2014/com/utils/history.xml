@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<histories>
+  <history>
+    <year>2010</year>
+	<host>South Africa</host>
+	<dates>11 June – 11 July (31 days)</dates>
+	<teams>32 (from 6 confederations)</teams>
+	<positions>
+		<champion>Spain (1st title)</champion>
+		<runnerup>Netherlands</runnerup>
+		<third>Germany</third>
+		<fourth>Uruguay</fourth>
+	</positions>
+	<goldenboot>
+		<player>Thomas Müller (GER) (5 Goals)</player>
+	</goldenboot>
+	<goldenball>Diego Forlán (URU)</goldenball>
+	<goalkeeper>Iker Casillas (ESP)</goalkeeper>
+	<youngPlayer>Thomas MUELLER (GER)</youngPlayer>
+	<fairPlay>Spain</fairPlay>
+	<finalresult>1–0 (extra time)</finalresult>
+  </history>
+  <history>
+    <year>2006</year>
+	<host>Germany</host>
+	<dates>9 June – 9 July</dates>
+	<teams>32 (from 6 confederations)</teams>
+	<positions>
+		<champion>Italy (4th title)</champion>
+		<runnerup>France</runnerup>
+		<third>Germany</third>
+		<fourth>Portugal</fourth>
+	</positions>
+	<goldenboot>
+		<player>Miroslav Klose (GER) (5 Goals)</player>
+	</goldenboot>
+	<goldenball> Zinedine Zidane (FRA)</goldenball>
+	<goalkeeper>Gianluigi Buffon (ITA)</goalkeeper>
+	<youngPlayer>Lukas PODOLSKI (GER)</youngPlayer>
+	<fairPlay>Spain, Brazil</fairPlay>
+	<finalresult>5–3 (penalty shootout)</finalresult>
+  </history>
+  <history>
+    <year>2002</year>
+	<host>South Korea and Japan</host>
+	<dates>31 May – 30 June (31 days)</dates>
+	<teams>32 (from 5 confederations)</teams>
+	<positions>
+		<champion>Brazil (5th title)</champion>
+		<runnerup>Germany</runnerup>
+		<third>Turkey</third>
+		<fourth>South Korea</fourth>
+	</positions>
+	<goldenboot>
+		<player>Ronaldo (BRA) (8 goals)</player>
+	</goldenboot>
+	<goldenball> Oliver Kahn (GER)</goldenball>
+	<goalkeeper>Oliver Kahn (GER)</goalkeeper>
+	<youngPlayer>Landon DONOVAN (USA)</youngPlayer>
+	<fairPlay>Belgium</fairPlay>
+	<finalresult>2–0</finalresult>
+  </history>
+  <history>
+    <year>1998</year>
+	<host>France</host>
+	<dates>10 June to 12 July (32 days)</dates>
+	<teams>32 (from 6 confederations)</teams>
+	<positions>
+		<champion>France (1st title)</champion>
+		<runnerup>Brazil</runnerup>
+		<third>Croatia</third>
+		<fourth>Netherlands</fourth>
+	</positions>
+	<goldenboot>
+		<player>Davor Šuker (CRO) (6 Goals)</player>
+	</goldenboot>
+	<goldenball>Ronaldo (BRA)</goldenball>
+	<goalkeeper>Fabien Barthez (FRA)</goalkeeper>
+	<youngPlayer>Michael OWEN (ENG)</youngPlayer>
+	<fairPlay>England, France</fairPlay>
+	<finalresult>3-0</finalresult>
+  </history>
+  <history>
+    <year>1994</year>
+	<host>United States</host>
+	<dates>17 June to 17 July (30 days)</dates>
+	<teams>24 (from 6 confederations)</teams>
+	<positions>
+		<champion>Brazil (4th title)</champion>
+		<runnerup>Italy</runnerup>
+		<third>Sweden</third>
+		<fourth>Bulgaria</fourth>
+	</positions>
+	<goldenboot>
+		<player>Oleg Salenko (RUS) (6 Goals)</player>
+		<player>Hristo Stoichkov (BUL) (6 Goals)</player>
+	</goldenboot>
+	<goldenball>Romário (Romário de Souza Faria) (BRA)</goldenball>
+	<goalkeeper>Michel Preud'homme (BEL)</goalkeeper>
+	<youngPlayer>Marc OVERMARS (NED)</youngPlayer>
+	<fairPlay>Brazil</fairPlay>
+	<finalresult>3–2 (penalty shootout)</finalresult>
+  </history>
+  <history>
+    <year>1990</year>
+	<host>Italy</host>
+	<dates>8 June to 8 July (30 days)</dates>
+	<teams>24 (from 6 confederations)</teams>
+	<positions>
+		<champion>Germany FR (3rd title)</champion>
+		<runnerup>Argentina</runnerup>
+		<third>Italy</third>
+		<fourth>England</fourth>
+	</positions>
+	<goldenboot>
+		<player>Salvatore Schillaci (ITA) (6 Goals)</player>
+	</goldenboot>
+	<goldenball>Salvatore Schillaci (ITA)</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>Robert PROSINECKI (CRO)</youngPlayer>
+	<fairPlay>England</fairPlay>
+	<finalresult>1–0</finalresult>
+  </history>
+  <history>
+    <year>1986</year>
+	<host>Mexico</host>
+	<dates>31 May to 29 June (30 days)</dates>
+	<teams>24 (from 6 confederations)</teams>
+	<positions>
+		<champion>Argentina (2nd title)</champion>
+		<runnerup>Germany FR</runnerup>
+		<third>France</third>
+		<fourth>Belgium</fourth>
+	</positions>
+	<goldenboot>
+		<player>Gary Lineker (ENG) (6 Goals)</player>
+	</goldenboot>
+	<goldenball>Diego Maradona (ARG)</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>Enzo SCIFO (BEL)</youngPlayer>
+	<fairPlay>Brazil</fairPlay>
+	<finalresult>3–2</finalresult>
+  </history>
+  <history>
+    <year>1982</year>
+	<host>Spain</host>
+	<dates>13 June to 11 July (28 days)</dates>
+	<teams>24 (from 6 confederations)</teams>
+	<positions>
+		<champion>Italy (3rd title)</champion>
+		<runnerup>Germany FR</runnerup>
+		<third>Poland</third>
+		<fourth>France</fourth>
+	</positions>
+	<goldenboot>
+		<player>Paolo Rossi (ITA) (6 Goals)</player>
+	</goldenboot>
+	<goldenball>Paolo Rossi (ITA)</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>Manuel AMOROS (FRA)</youngPlayer>
+	<fairPlay>Brazil</fairPlay>
+	<finalresult>3–1</finalresult>
+  </history>
+  <history>
+    <year>1978</year>
+	<host>Argentina</host>
+	<dates>1 June to 25 June (25 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Argentina (1st title)</champion>
+		<runnerup>Netherlands</runnerup>
+		<third>Brazil</third>
+		<fourth>Italy</fourth>
+	</positions>
+	<goldenboot>
+		<player>Mario Kempes (ARG) (6 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>Antonio CABRINI (ITA)</youngPlayer>
+	<fairPlay>Argentina</fairPlay>
+	<finalresult>3–1 (extra time)</finalresult>
+  </history>
+  <history>
+    <year>1974</year>
+	<host>West Germany</host>
+	<dates>13 June to 7 July (25 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Germany FR (2nd title)</champion>
+		<runnerup>Netherlands</runnerup>
+		<third>Poland</third>
+		<fourth>Brazil</fourth>
+	</positions>
+	<goldenboot>
+		<player>Grzegorz Lato (POL) (7 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>Wladyslaw ZMUDA (POL)</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>2-1</finalresult>
+  </history>
+  <history>
+    <year>1970</year>
+	<host>Mexico</host>
+	<dates>31 May to 21 June (22 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Brazil (3rd title)</champion>
+		<runnerup>Italy</runnerup>
+		<third>Germany FR</third>
+		<fourth>Uruguay</fourth>
+	</positions>
+	<goldenboot>
+		<player>Gerd Müller (GER) (7 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>Teofilo CUBILLAS (PER)</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>4–1</finalresult>
+  </history>
+  <history>
+    <year>1966</year>
+	<host>England</host>
+	<dates>11 to 30 July (20 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>England (1st title)</champion>
+		<runnerup>Germany FR</runnerup>
+		<third>Portugal</third>
+		<fourth>Soviet Union</fourth>
+	</positions>
+	<goldenboot>
+		<player>EUSEBIO (Eusebio da Silva Ferreira) (POR) (6 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>Franz BECKENBAUER (GER)</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>4–2 (extra time)</finalresult>
+  </history>
+  <history>
+    <year>1962</year>
+	<host>Chile</host>
+	<dates>30 May to 17 June (18 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Brazil (2nd title)</champion>
+		<runnerup>Czechoslovakia</runnerup>
+		<third>Chile</third>
+		<fourth>Yugoslavia</fourth>
+	</positions>
+	<goldenboot>
+		<player>Garrincha (BRA) (4 Goals)</player>
+		<player>Vavá (BRA) (4 Goals)</player>
+		<player>Leonel Sánchez (CHI) (4 Goals)</player>
+		<player>Flórián Albert (HUN) (4 Goals)</player>
+		<player>Valentin Ivanov (URS) (4 Goals)</player>
+		<player>Dražan Jerković (YUG) (4 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>Florian ALBERT (HUN)</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>3–1</finalresult>
+  </history>
+  <history>
+    <year>1958</year>
+	<host>Sweden </host>
+	<dates>8 June to 29 June (22 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Brazil (1st title)</champion>
+		<runnerup>Sweden</runnerup>
+		<third>France</third>
+		<fourth>Germany FR</fourth>
+	</positions>
+	<goldenboot>
+		<player>Just Fontaine (FRA) (13 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>PELÉ (Edson Arantes do Nascimento) (BRA)</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>5–2</finalresult>
+  </history>
+  <history>
+    <year>1954</year>
+	<host>Switzerland</host>
+	<dates>16 June to 4 July (19 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Germany FR (1st title)</champion>
+		<runnerup>Hungary</runnerup>
+		<third>Austria</third>
+		<fourth>Uruguay</fourth>
+	</positions>
+	<goldenboot>
+		<player>Sándor Kocsis (HUN) (11 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>null</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>3–2</finalresult>
+  </history>
+  <history>
+    <year>1950</year>
+	<host>Brazil</host>
+	<dates>24 June to 16 July (22 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Uruguay (2nd title)</champion>
+		<runnerup>Brazil</runnerup>
+		<third>Sweden</third>
+		<fourth>Spain</fourth>
+	</positions>
+	<goldenboot>
+		<player>Ademir (BRA) (8 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>null</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>2–1</finalresult>
+  </history>
+  <history>
+    <year>1938</year>
+	<host>France</host>
+	<dates>4 June to 19 June (15 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Italy (2nd title)</champion>
+		<runnerup>Hungary</runnerup>
+		<third>Brazil</third>
+		<fourth>Sweden</fourth>
+	</positions>
+	<goldenboot>
+		<player>Leônidas (BRA) (7 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>null</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>4–2</finalresult>
+  </history>
+  <history>
+    <year>1934</year>
+	<host>Italy</host>
+	<dates>27 May to 10 June (15 days)</dates>
+	<teams>16</teams>
+	<positions>
+		<champion>Italy (1st title)</champion>
+		<runnerup>Czechoslovakia</runnerup>
+		<third>Germany</third>
+		<fourth>Austria</fourth>
+	</positions>
+	<goldenboot>
+		<player>Oldřich Nejedlý (TCH) (5 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>null</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>2–1</finalresult>
+  </history>
+  <history>
+    <year>1930</year>
+	<host>Uruguay</host>
+	<dates>13 July to 30 July (18 days)</dates>
+	<teams>13</teams>
+	<positions>
+		<champion>Uruguay (1st title)</champion>
+		<runnerup>Argentina</runnerup>
+		<third>USA</third>
+		<fourth>Yugoslavia</fourth>
+	</positions>
+	<goldenboot>
+		<player>Guillermo Stábile (ARG) (6 Goals)</player>
+	</goldenboot>
+	<goldenball>null</goldenball>
+	<goalkeeper>null</goalkeeper>
+	<youngPlayer>null</youngPlayer>
+	<fairPlay>null</fairPlay>
+	<finalresult>4–2</finalresult>
+  </history>
+</histories>

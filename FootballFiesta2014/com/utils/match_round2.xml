@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<matches>
+	<match name="round16">
+		<id>49</id>
+		<date>28/06</date>
+		<time>13:00</time>
+		<stadium>Belo Horizonte</stadium>
+		<team1>1A</team1>
+		<team2>2B</team2>
+		<group>null</group>
+		<title>round16</title>
+	</match>
+	<match name="round16">
+		<id>50</id>
+		<date>28/06</date>
+		<time>17:00</time>
+		<stadium>Rio De Janeiro</stadium>
+		<team1>1C</team1>
+		<team2>2D</team2>
+		<group>null</group>
+		<title>round16</title>
+	</match>
+	<match name="round16">
+		<id>51</id>
+		<date>29/06</date>
+		<time>13:00</time>
+		<stadium>Fortaleza</stadium>
+		<team1>1B</team1>
+		<team2>2A</team2>
+		<group>null</group>
+		<title>round16</title>
+	</match>
+	<match name="round16">
+		<id>52</id>
+		<date>29/06</date>
+		<time>17:00</time>
+		<stadium>Recife</stadium>
+		<team1>1D</team1>
+		<team2>2C</team2>
+		<group>null</group>
+		<title>round16</title>
+	</match>
+	<match name="round16">
+		<id>53</id>
+		<date>30/06</date>
+		<time>13:00</time>
+		<stadium>Brasilia</stadium>
+		<team1>1E</team1>
+		<team2>2F</team2>
+		<group>null</group>
+		<title>round16</title>
+	</match>
+	<match name="round16">
+		<id>54</id>
+		<date>30/06</date>
+		<time>17:00</time>
+		<stadium>Porto Alegre</stadium>
+		<team1>1G</team1>
+		<team2>2H</team2>
+		<group>null</group>
+		<title>round16</title>
+	</match>
+	<match name="round16">
+		<id>55</id>
+		<date>01/07</date>
+		<time>13:00</time>
+		<stadium>Sao Paulo</stadium>
+		<team1>1F</team1>
+		<team2>2E</team2>
+		<group>null</group>
+		<title>round16</title>
+	</match>
+	<match name="round16">
+		<id>56</id>
+		<date>01/07</date>
+		<time>17:00</time>
+		<stadium>Salvador</stadium>
+		<team1>1H</team1>
+		<team2>2G</team2>
+		<group>null</group>
+		<title>round16</title>
+	</match>
+	
+	<match name="quarter">
+		<id>57</id>
+		<date>04/07</date>
+		<time>17:00</time>
+		<stadium>Fortaleza</stadium>
+		<team1>W49</team1>
+		<team2>W50</team2>
+		<group>null</group>
+		<title>quarter</title>
+	</match>
+	<match name="quarter">
+		<id>58</id>
+		<date>04/07</date>
+		<time>13:00</time>
+		<stadium>Rio De Janeiro</stadium>
+		<team1>W53</team1>
+		<team2>W54</team2>
+		<group>null</group>
+		<title>quarter</title>
+	</match>
+	<match name="quarter">
+		<id>59</id>
+		<date>05/07</date>
+		<time>17:00</time>
+		<stadium>Salvador</stadium>
+		<team1>W51</team1>
+		<team2>W52</team2>
+		<group>null</group>
+		<title>quarter</title>
+	</match>
+	<match name="quarter">
+		<id>60</id>
+		<date>05/07</date>
+		<time>13:00</time>
+		<stadium>Brasilia</stadium>
+		<team1>W55</team1>
+		<team2>W56</team2>
+		<group>null</group>
+		<title>quarter</title>
+	</match>
+	
+	<match name="semi">
+		<id>61</id>
+		<date>08/07</date>
+		<time>17:00</time>
+		<stadium>Belo Horizonte</stadium>
+		<team1>W57</team1>
+		<team2>W58</team2>
+		<group>null</group>
+		<title>semi</title>
+	</match>
+	<match name="semi">
+		<id>62</id>
+		<date>09/07</date>
+		<time>17:00</time>
+		<stadium>Sao Paulo</stadium>
+		<team1>W59</team1>
+		<team2>W60</team2>
+		<group>null</group>
+		<title>semi</title>
+	</match>
+	
+	<match name="third">
+		<id>63</id>
+		<date>12/07</date>
+		<time>17:00</time>
+		<stadium>Brasilia</stadium>
+		<team1>L61</team1>
+		<team2>L62</team2>
+		<group>null</group>
+		<title>third</title>
+	</match>
+	
+	<match name="final">
+		<id>64</id>
+		<date>13/07</date>
+		<time>16:00</time>
+		<stadium>Rio De Janeiro</stadium>
+		<team1>W61</team1>
+		<team2>W62</team2>
+		<group>null</group>
+		<title>final</title>
+	</match>
+</matches>	

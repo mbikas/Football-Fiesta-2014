@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<squads>
+  <team>
+    <id>BRA</id>
+    <name>Brazil</name>
+    <coach>Luiz Felipe Scolari</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Jefferson</pname><age>2 January 1983 (aged 31)</age><caps>9</caps><club>Botafogo</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Daniel Alves</pname><age>6 May 1983 (aged 31)</age><caps>73</caps><club>Barcelona</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Thiago Silva (captain)</pname><age>22 September 1984 (aged 29)</age><caps>45</caps><club>Paris Saint-Germain</club></player>
+        <player><no>4</no><pos>DF</pos><pname>David Luiz</pname><age>22 April 1987 (aged 27)</age><caps>34</caps><club>England Chelsea</club></player>
+        <player><no>5</no><pos>MF</pos><pname>Fernandinho</pname><age>4 May 1985 (aged 29)</age><caps>6</caps><club>England Manchester City</club></player>
+        <player><no>6</no><pos>DF </pos><pname>Marcelo </pname><age>12 May 1988 (aged 26)</age><caps>29</caps><club>Spain Real Madrid</club></player>
+        <player><no>7</no><pos>FW </pos><pname>Hulk </pname><age>25 July 1986 (aged 27)</age><caps>33</caps><club>Russia Zenit Saint Petersburg</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Paulinho</pname><age>25 July 1988 (aged 25)</age><caps>25</caps><club>England Tottenham Hotspur</club></player>
+        <player><no>9</no><pos>FW </pos><pname>Fred </pname><age>3 October 1983 (aged 30) </age><caps>31</caps><club>Brazil Fluminense</club></player>
+        <player><no>10</no><pos>FW </pos><pname>Neymar</pname><age>5 February 1992 (aged 22)</age><caps>47</caps><club>Spain Barcelona</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Oscar</pname><age>9 September 1991 (aged 22)</age><caps>29</caps><club>England Chelsea</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Júlio César</pname><age>3 September 1979 (aged 34)</age><caps>78</caps><club>Canada Toronto FC</club></player>
+        <player><no>13</no><pos>DF </pos><pname>Dante</pname><age>18 October 1983 (aged 30)</age><caps>11</caps><club>Germany Bayern Munich</club></player> 
+        <player><no>14</no><pos>DF</pos><pname>Maxwell</pname><age>27 August 1981 (aged 32)</age><caps>7</caps><club>France Paris Saint-Germain</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Henrique</pname><age>14 October 1986 (aged 27)</age><caps>4</caps><club>Italy Napoli</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Ramires</pname><age>24 March 1987 (aged 27)</age><caps>41</caps><club>England Chelsea</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Luiz Gustavo</pname><age>23 July 1987 (aged 26)</age><caps>17</caps><club>Germany VfL Wolfsburg</club></player>
+        <player><no>18</no><pos>MF </pos><pname>Hernanes</pname><age>29 May 1985 (aged 29)</age><caps>23</caps><club>Italy Internazionale</club></player>    
+        <player><no>19</no><pos>MF</pos><pname>Willian</pname><age>9 August 1988 (aged 25)</age><caps>5</caps><club>England Chelsea</club></player>    
+        <player><no>20</no><pos>MF</pos><pname>Bernard</pname><age>8 September 1992 (aged 21)</age><caps>10</caps><club>Ukraine Shakhtar Donetsk</club></player>                  
+        <player><no>21</no><pos>FW</pos><pname>Jô</pname><age>20 March 1987 (aged 27)</age><caps>15</caps><club>Brazil Atlético Mineiro</club></player>                 
+        <player><no>22</no><pos>GK</pos><pname>Victor</pname><age>21 January 1983 (aged 31)</age><caps>6</caps><club>Brazil Atlético Mineiro</club></player>             
+        <player><no>23</no><pos>DF</pos><pname>Maicon</pname><age>26 July 1981 (aged 32)</age><caps>70</caps><club>Italy Roma</club></player>      
+   </players>    
+  </team>
+  <team>
+    <id>CRO</id>
+    <name>Croatia</name>
+    <coach>Niko Kovac</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Stipe Pletikosa</pname><age>8 January 1979 (aged 35)</age><caps>110</caps><club>Rostov</club></player>
+        <player><no>2</no><pos>GK</pos><pname>Danijel Subašic</pname><age>27 October 1984 (aged 29)</age><caps>6</caps><club>France Monaco</club></player>
+        <player><no>3</no><pos>GK</pos><pname>Oliver Zelenika</pname><age>14 May 1993 (aged 21)</age><caps>0</caps><club>Croatia NK Lokomotiva</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Darijo Srna (c)</pname><age>1 May 1982 (aged 32)</age><caps>112</caps><club>Ukraine Shakhtar Donetsk</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Vedran Corluka</pname><age>5 February 1986 (aged 28)</age><caps>72</caps><club>Russia Lokomotiv Moscow</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Danijel Pranjic</pname><age>2 December 1981 (aged 32)</age><caps>48</caps><club>Greece Panathinaikos</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Dejan Lovren</pname><age>5 July 1989 (aged 24)</age><caps>23</caps><club>England Southampton</club></player>
+        <player><no>8</no><pos>DF</pos><pname>Domagoj Vida</pname><age>29 April 1989 (aged 25)</age><caps>23</caps><club>Ukraine Dynamo Kyiv</club></player>
+        <player><no>9</no><pos>DF</pos><pname>Gordon Schildenfeld </pname><age>18 March 1985 (aged 29)</age><caps>21</caps><club>Greece Panathinaikos</club></player>   
+        <player><no>10</no><pos>DF</pos><pname>Šime Vrsaljko</pname><age>10 January 1992 (aged 22)</age><caps>6</caps><club>Italy Genoa</club></player>        
+        <player><no>11</no><pos>MF</pos><pname>Luka Modric</pname><age>9 September 1985 (aged 28)</age><caps>74</caps><club>Spain Real Madrid</club></player>   
+        <player><no>12</no><pos>MF</pos><pname>Ivan Rakitic</pname><age>10 March 1988 (aged 26)</age><caps>61</caps><club>Spain Sevilla</club></player>         
+        <player><no>13</no><pos>MF</pos><pname>Ognjen Vukojevic</pname><age>20 December 1983 (aged 30)</age><caps>55</caps><club>Ukraine Dynamo Kyiv</club></player>    
+        <player><no>14</no><pos>MF</pos><pname>Ivan Perišic</pname><age>2 February 1989 (aged 25)</age><caps>28</caps><club>Germany VfL Wolfsburg</club></player> 
+        <player><no>15</no><pos>MF</pos><pname>Mateo Kovacic</pname><age>6 May 1994 (aged 20)</age><caps>9</caps><club>Italy Internazionale</club></player> 
+        <player><no>16</no><pos>MF</pos><pname>Sammir</pname><age>23 April 1987 (aged 27)</age><caps>5</caps><club>Spain Getafe</club></player> 
+        <player><no>17</no><pos>MF</pos><pname>Marcelo Brozovic</pname><age>16 October 1992 (aged 21)</age><caps>0</caps><club>Croatia Dinamo Zagreb</club></player> 
+        <player><no>18</no><pos>MF</pos><pname>Ivan Mocinic</pname><age>30 April 1993 (aged 21)</age><caps>0</caps><club>Croatia Rijeka</club></player> 
+        <player><no>19</no><pos>FW</pos><pname>Ivica Olic</pname><age>14 September 1979 (aged 34)</age><caps>91</caps><club>Germany VfL Wolfsburg</club></player> 
+        <player><no>20</no><pos>FW</pos><pname>Eduardo</pname><age>25 February 1983 (aged 31)</age><caps>63</caps><club>Ukraine Shakhtar Donetsk</club></player> 
+        <player><no>21</no><pos>FW</pos><pname>Mario Mandžukic</pname><age>21 May 1986 (aged 28)</age><caps>49</caps><club>Germany Bayern Munich</club></player> 
+        <player><no>22</no><pos>FW</pos><pname>Nikica Jelavic</pname><age>27 August 1985 (aged 28)</age><caps>33</caps><club>England Hull City</club></player> 
+        <player><no>23</no><pos>FW</pos><pname>Ante Rebic</pname><age>21 September 1993 (aged 20)</age><caps>4</caps><club>Italy Fiorentina</club></player> 
+   </players>   
+  </team>
+  
+  <team>
+    <id>MEX</id>
+    <name>Mexico</name>
+    <coach>Miguel Herrera</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Guillermo Ochoa</pname><age>13 July 1985 (aged 28)</age><caps>58</caps><club>France Ajaccio</club></player>
+        <player><no>2</no><pos>GK</pos><pname>José de Jesús Corona</pname><age>26 January 1981 (aged 33)</age><caps>33</caps><club>Mexico Cruz Azul</club></player>
+        <player><no>3</no><pos>GK</pos><pname>Alfredo Talavera</pname><age>18 September 1982 (aged 31)</age><caps>13</caps><club>Mexico Toluca</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Carlos Salcido</pname><age>2 April 1980 (aged 34)</age><caps>121</caps><club>Mexico UANL</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Rafael Márquez (c)</pname><age>13 February 1979 (aged 35)</age><caps>119</caps><club>Mexico León</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Andrés Guardado</pname><age>28 September 1986 (aged 27)</age><caps>102</caps><club>Germany Bayer Leverkusen</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Francisco Javier Rodríguez</pname><age>20 October 1981 (aged 32)</age><caps>93</caps><club>Mexico América</club></player>
+        <player><no>8</no><pos>DF</pos><pname>Héctor Moreno</pname><age>17 January 1988 (aged 26) </age><caps>51</caps><club>Spain Espanyol</club></player>
+        <player><no>9</no><pos>DF</pos><pname>Paul Aguilar</pname><age>6 March 1986 (aged 28)</age><caps>29</caps><club>Mexico América</club></player>
+        <player><no>10</no><pos>DF</pos><pname>Diego Reyes</pname><age>19 September 1992 (aged 21)</age><caps>13</caps><club>Portugal Porto</club></player>
+        <player><no>11</no><pos>DF</pos><pname>Miguel Layún</pname><age>25 June 1988 (aged 25)</age><caps>13</caps><club>Mexico América</club></player>
+        <player><no>12</no><pos>MF</pos><pname>Javier Aquino</pname><age>11 February 1990 (aged 24)</age><caps>21</caps><club>Spain Villarreal</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Carlos Peña</pname><age>29 March 1990 (aged 24)</age><caps>15</caps><club>Mexico León</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Marco Fabián</pname><age>21 July 1989 (aged 24)</age><caps>3</caps><club>Mexico Cruz Azul</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Héctor Herrera</pname><age>19 April 1990 (aged 24)</age><caps>11</caps><club>Portugal Porto</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Miguel �?ngel Ponce</pname><age>12 April 1989 (aged 25)</age><caps>7</caps><club>Mexico Toluca</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Isaác Brizuela</pname><age>28 August 1990 (aged 23)</age><caps>6</caps><club>Mexico Toluca</club></player>
+        <player><no>18</no><pos>MF</pos><pname>José Juan Vázquez</pname><age>14 March 1988 (aged 26)</age><caps>3</caps><club>Mexico León</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Giovani dos Santos</pname><age>11 May 1989 (aged 25)</age><caps>74</caps><club>Spain Villarreal</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Javier Hernández</pname><age>1 June 1988 (aged 26)</age><caps>60</caps><club>England Manchester United</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Oribe Peralta</pname><age>12 January 1984 (aged 30)</age><caps>32</caps><club>Mexico Santos Laguna</club></player>
+        <player><no>22</no><pos>FW</pos><pname>Raúl Jiménez</pname><age>5 May 1991 (aged 23)</age><caps>24</caps><club>Mexico América</club></player>
+        <player><no>23</no><pos>FW</pos><pname>Alan Pulido</pname><age>8 March 1991 (aged 23)</age><caps>4</caps><club>Mexico UANL</club></player>
+        
+    </players>
+  </team>
+  
+  <team>
+    <id>CMR</id>
+    <name>Cameroon</name>
+    <coach>Volker Finke</coach>
+    <players>
+       <player><no>1</no><pos>GK</pos><pname>Charles Itandje</pname><age>2 November 1982 (aged 31)</age><caps>9</caps><club>Turkey Konyaspor</club></player>
+       <player><no>2</no><pos>GK</pos><pname>Sammy N'Djock</pname><age>25 February 1990 (aged 24)</age><caps>2</caps><club>Turkey Fethiyespor</club></player>
+       <player><no>3</no><pos>GK</pos><pname>Loïc Feudjou</pname><age>14 April 1992 (aged 22)</age><caps>1</caps><club>Coton Sport</club></player>
+       <player><no>4</no><pos>DF</pos><pname>Nicolas N'Koulou</pname><age>27 March 1990 (aged 24)</age><caps>47</caps><club>France Marseille</club></player>
+       <player><no>5</no><pos>DF</pos><pname>Aurélien Chedjou</pname><age>20 June 1985 (aged 28)</age><caps>30</caps><club>Turkey Galatasaray</club></player>
+       <player><no>6</no><pos>DF</pos><pname>Henri Bedimo</pname><age>4 June 1984 (aged 30)</age><caps>30</caps><club>France Lyon</club></player>
+       <player><no>7</no><pos>DF</pos><pname>Benoît Assou-Ekotto</pname><age>24 March 1984 (aged 30)</age><caps>21</caps><club>England Queens Park Rangers</club></player>
+       <player><no>8</no><pos>DF</pos><pname>Dany Nounkeu</pname><age>11 April 1986 (aged 28)</age><caps>15</caps><club>Turkey Besiktas</club></player>
+       <player><no>9</no><pos>DF</pos><pname>Allan Nyom</pname><age>10 May 1988 (aged 26)</age><caps>8</caps><club>Spain Granada</club></player>
+       <player><no>10</no><pos>DF</pos><pname>Cédric Djeugoué</pname><age>28 August 1992 (aged 21)</age><caps>3</caps><club>Cameroon Coton Sport</club></player>
+       <player><no>11</no><pos>MF</pos><pname>Jean Makoun</pname><age>29 May 1983 (aged 31)</age><caps>66</caps><club>France Rennes</club></player>
+       <player><no>12</no><pos>MF</pos><pname>Stéphane Mbia</pname><age>20 May 1986 (aged 28)</age><caps>49</caps><club>Spain Sevilla</club></player>
+       <player><no>13</no><pos>MF</pos><pname>Alex Song</pname><age>9 September 1987 (aged 26)</age><caps>46</caps><club>Spain Barcelona</club></player>
+       <player><no>14</no><pos>MF</pos><pname>Landry N'Guémo</pname><age>28 November 1985 (aged 28)</age><caps>39</caps><club>France Bordeaux</club></player>
+       <player><no>15</no><pos>MF</pos><pname>Eyong Enoh</pname><age>23 March 1986 (aged 28)</age><caps>37</caps><club>Turkey Antalyaspor</club></player>
+       <player><no>16</no><pos>MF</pos><pname>Joël Matip</pname><age>8 August 1991 (aged 22)</age><caps>22</caps><club>Germany Schalke 04</club></player>
+       <player><no>17</no><pos>MF</pos><pname>Edgar Salli</pname><age>17 August 1992 (aged 21)</age><caps>8</caps><club>France Lens</club></player>
+       <player><no>18</no><pos>FW</pos><pname>Samuel Eto'o (c)</pname><age>10 March 1981 (aged 33)</age><caps>116</caps><club>England Chelsea</club></player>
+       <player><no>19</no><pos>FW</pos><pname>Pierre Webó</pname><age>20 January 1982 (aged 32)</age><caps>55</caps><club>Turkey Fenerbahçe</club></player>
+       <player><no>20</no><pos>FW</pos><pname>Maxim Choupo-Moting</pname><age>23 March 1989 (aged 25)</age><caps>26</caps><club>Germany Mainz 05</club></player>
+       <player><no>21</no><pos>FW</pos><pname>Vincent Aboubakar</pname><age>22 January 1992 (aged 22)</age><caps>23</caps><club>France Lorient</club></player>
+       <player><no>22</no><pos>FW</pos><pname>Benjamin Moukandjo</pname><age>12 November 1988 (aged 25)</age><caps>16</caps><club>France Nancy</club></player>
+       <player><no>23</no><pos>FW</pos><pname>Fabrice Olinga</pname><age>12 May 1996 (aged 18)</age><caps>7</caps><club>Belgium Zulte Waregem</club></player>
+    
+    </players>
+  </team>
+  
+  <team>
+    <id>ESP</id>
+    <name>Spain</name>
+    <coach>Vicente del Bosque</coach>
+    <players>
+          <player><no>1</no><pos>GK</pos><pname>Iker Casillas (c)</pname><age>20 May 1981 (aged 33)</age><caps>153</caps><club>Spain Real Madrid</club></player>
+          <player><no>2</no><pos>DF</pos><pname>Raúl Albiol</pname><age>4 September 1985 (aged 28)</age><caps>46</caps><club>Italy Napoli</club></player>
+          <player><no>3</no><pos>DF</pos><pname>Gerard Piqué</pname><age>2 February 1987 (aged 27)</age><caps>60</caps><club>Spain Barcelona</club></player>
+          <player><no>4</no><pos>MF</pos><pname>Javi Martínez</pname><age>2 September 1988 (aged 25) </age><caps>16</caps><club>Germany Bayern Munich</club></player>
+          <player><no>5</no><pos>DF</pos><pname>Juanfran</pname><age>9 January 1985 (aged 29)</age><caps>6</caps><club>Spain Atlético Madrid</club></player>
+          <player><no>6</no><pos>MF</pos><pname>Andrés Iniesta</pname><age>11 May 1984 (aged 30)</age><caps>95</caps><club>Spain Barcelona</club></player>
+          <player><no>7</no><pos>FW</pos><pname>David Villa</pname><age>3 December 1981 (aged 32)</age><caps>94</caps><club>Spain Atlético Madrid</club></player>
+          <player><no>8</no><pos>MF</pos><pname>Xavi</pname><age>25 January 1980 (aged 34)</age><caps>131</caps><club>Spain Barcelona</club></player>
+          <player><no>9</no><pos>FW</pos><pname>Fernando Torres</pname><age>20 March 1984 (aged 30)</age><caps>107</caps><club>England Chelsea</club></player>
+          <player><no>10</no><pos>MF</pos><pname>Cesc Fàbregas</pname><age>4 May 1987 (aged 27)</age><caps>88</caps><club>Spain Barcelona</club></player>
+          <player><no>11</no><pos>FW</pos><pname>Pedro</pname><age>28 July 1987 (aged 26)</age><caps>38</caps><club>Spain Barcelona</club></player>
+          <player><no>12</no><pos>GK</pos><pname>David de Gea</pname><age>7 November 1990 (aged 23)</age><caps>0</caps><club>England Manchester United</club></player>
+          <player><no>13</no><pos>MF</pos><pname>Juan Mata</pname><age>28 April 1988 (aged 26)</age><caps>32</caps><club>England Manchester United</club></player>
+          <player><no>14</no><pos>MF</pos><pname>Xabi Alonso</pname><age>25 November 1981 (aged 32)</age><caps>109</caps><club>Spain Real Madrid</club></player>
+          <player><no>15</no><pos>DF</pos><pname>Sergio Ramos</pname><age>30 March 1986 (aged 28)</age><caps>115</caps><club>Spain Real Madrid</club></player>
+          <player><no>16</no><pos>MF</pos><pname>Sergio Busquets</pname><age>16 July 1988 (aged 25)</age><caps>64</caps><club>Spain Barcelona</club></player>
+          <player><no>17</no><pos>MF</pos><pname>Koke</pname><age>8 January 1992 (aged 22)</age><caps>7</caps><club>Spain Atlético Madrid</club></player>
+          <player><no>18</no><pos>DF</pos><pname>Jordi Alba</pname><age>21 March 1989 (aged 25)</age><caps>25</caps><club>Spain Barcelona</club></player>
+          <player><no>19</no><pos>FW</pos><pname>Diego Costa</pname><age>7 October 1988 (aged 25)</age><caps>1</caps><club>Spain Atlético Madrid</club></player>
+          <player><no>20</no><pos>MF</pos><pname>Santi Cazorla</pname><age>13 December 1984 (aged 29)</age><caps>62</caps><club>England Arsenal</club></player>
+          <player><no>21</no><pos>MF</pos><pname>David Silva</pname><age>8 January 1986 (aged 28)</age><caps>79</caps><club>England Manchester City</club></player>
+          <player><no>22</no><pos>DF</pos><pname>César Azpilicueta</pname><age>28 August 1989 (aged 24)</age><caps>6</caps><club>England Chelsea</club></player>
+          <player><no>23</no><pos>GK</pos><pname>Pepe Reina</pname><age>1 August 1982 (aged 31)</age><caps>31</caps><club>Italy Napoli</club></player>
+         
+    </players>    
+  </team>
+  
+  <team>
+    <id>NED</id>
+    <name>Netherlands</name>
+    <coach>Louis van Gaal</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Jasper Cillessen</pname><age>22 April 1989 (aged 25)</age><caps>7</caps><club>Netherlands Ajax</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Ron Vlaar</pname><age>16 February 1985 (aged 29)</age><caps>23</caps><club>England Aston Villa</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Stefan de Vrij</pname><age>5 February 1992 (aged 22</age><caps>11</caps><club>Netherlands Feyenoord</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Bruno Martins Indi</pname><age>8 February 1992 (aged 22)</age><caps>15</caps><club>Netherlands Feyenoord</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Daley Blind</pname><age>9 March 1990 (aged 24)</age><caps>11</caps><club>Netherlands Ajax</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Jonathan de Guzmán</pname><age>13 September 1987 (aged 26)</age><caps>10</caps><club>Wales Swansea City</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Daryl Janmaat</pname><age>22 July 1989 (aged 24)</age><caps>15</caps><club>Netherlands Feyenoord</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Nigel de Jong</pname><age>13 November 1984 (aged 29)</age><caps>70</caps><club>Italy Milan</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Robin van Persie (c)</pname><age>6 August 1983 (aged 30)</age><caps>84</caps><club>England Manchester United</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Wesley Sneijder</pname><age>9 June 1984 (aged 30)</age><caps>98</caps><club>Turkey Galatasaray</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Arjen Robben</pname><age>23 January 1984 (aged 30)</age><caps>74</caps><club>Germany Bayern Munich</club></player>
+        <player><no>12</no><pos>DF</pos><pname> Paul Verhaegh</pname><age>1 September 1983 (aged 30)</age><caps>2</caps><club>Germany FC Augsburg</club></player>
+        <player><no>13</no><pos>DF</pos><pname>Joël Veltman</pname><age>15 January 1992 (aged 22</age><caps>2</caps><club>Netherlands Ajax</club></player>
+        <player><no>14</no><pos>DF</pos><pname>Terence Kongolo</pname><age>14 February 1994 (aged 20)</age><caps>1</caps><club>Netherlands Feyenoord</club></player>
+        <player><no>15</no><pos>FW</pos><pname>Dirk Kuyt</pname><age>22 July 1980 (aged 33)</age><caps>98</caps><club>Turkey Fenerbahçe</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Jordy Clasie</pname><age>27 June 1991 (aged 22)</age><caps>8</caps><club>Netherlands Feyenoord</club></player>
+        <player><no>17</no><pos>FW</pos><pname>Jeremain Lens</pname><age>24 November 1987 (aged 26)</age><caps>21</caps><club>Ukraine Dynamo Kyiv</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Leroy Fer</pname><age>5 January 1990 (age 24)</age><caps>5</caps><club>England Norwich City</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Klaas-Jan Huntelaar</pname><age>12 August 1983 (aged 30)</age><caps>61</caps><club>Germany Schalke 04</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Georginio Wijnaldum</pname><age>11 November 1990 (aged 23)</age><caps>4</caps><club>Netherlands PSV Eindhoven</club></player>
+        <player><no>21</no><pos>MF</pos><pname>Memphis Depay</pname><age>13 February 1994 (aged 20)</age><caps>6</caps><club>Netherlands PSV Eindhoven</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Michel Vorm</pname><age>3 October 1983 (aged 30)</age><caps>14</caps><club>Wales Swansea City</club></player>
+        <player><no>23</no><pos>GK</pos><pname>Tim Krul</pname><age>3 April 1988 (aged 26)</age><caps>5</caps><club>England Newcastle United</club></player>
+
+   </players> 
+  </team>
+  
+  <team>
+    <id>CHL</id>
+    <name>Chile</name>
+    <coach>Jorge Sampaoli</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Claudio Bravo</pname><age>13 April 1983 (aged 31)</age><caps>79</caps><club>Spain Real Sociedad</club></player>
+        <player><no>2</no><pos>GK</pos><pname>Johnny Herrera</pname><age>9 May 1981 (aged 33)</age><caps>7</caps><club>Chile Universidad de Chile</club></player>
+        <player><no>3</no><pos>GK</pos><pname>Cristopher Toselli</pname><age>22 June 1988 (aged 25)</age><caps>4</caps><club>Chile Universidad Católica</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Gonzalo Jara</pname><age>29 August 1985 (aged 28)</age><caps>65</caps><club>England Nottingham Forest</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Gary Medel</pname><age>3 August 1987 (aged 26)</age><caps>60</caps><club>Wales Cardiff City</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Eugenio Mena</pname><age>18 July 1988 (aged 25) </age><caps>24</caps><club>Brazil Santos</club></player>
+        <player><no>7</no><pos>DF</pos><pname>José Rojas</pname><age>3 June 1983 (aged 31)</age><caps>18</caps><club>Chile Universidad de Chile</club></player>
+        <player><no>8</no><pos>DF</pos><pname>Miiko Albornoz</pname><age>3 November 1990 (aged 23)</age><caps>2</caps><club>Sweden Malmö FF</club></player>
+        <player><no>9</no><pos>MF</pos><pname>Jean Beausejour</pname><age>3 June 1984 (aged 30)</age><caps>59</caps><club>England Wigan Athletic</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Jorge Valdívia</pname><age>3 October 1983 (aged 30)</age><caps>56</caps><club>Brazil Palmeiras</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Arturo Vidal</pname><age>22 May 1987 (aged 27) </age><caps>53</caps><club>Italy Juventus</club></player>
+        <player><no>12</no><pos>MF</pos><pname>Mauricio Isla</pname><age>12 June 1988 (aged 26)</age><caps>46</caps><club>Italy Juventus</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Carlos Carmona</pname><age>21 February 1987 (aged 27)</age><caps>43</caps><club>Italy Atalanta</club></player>
+        <player><no>14</no><pos>MF</pos><pname>José Pedro Fuenzalida</pname><age>22 February 1985 (aged 29)</age><caps>23</caps><club>Chile Colo-Colo</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Charles Aránguiz</pname><age>17 April 1989 (aged 25)</age><caps>20</caps><club>Brazil Internacional</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Marcelo Díaz</pname><age>30 December 1986 (aged 27)</age><caps>20</caps><club>Switzerland Basel</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Felipe Gutiérrez</pname><age>8 October 1990 (aged 23)</age><caps>17</caps><club>Netherlands Twente</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Francisco Silva</pname><age>11 February 1986 (aged 28)</age><caps>11</caps><club>Spain Osasuna</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Alexis Sánchez</pname><age>19 December 1988 (aged 25)</age><caps>66</caps><club>Spain Barcelona</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Esteban Paredes</pname><age>1 August 1980 (aged 33)</age><caps>34</caps><club>Chile Colo-Colo</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Eduardo Vargas</pname><age>20 November 1989 (aged 24)</age><caps>29</caps><club>Spain Valencia</club></player>
+        <player><no>22</no><pos>FW</pos><pname>Mauricio Pinilla</pname><age>4 February 1984 (aged 30)</age><caps>26</caps><club>Italy Cagliari</club></player>
+        <player><no>23</no><pos>FW</pos><pname>Fabián Orellana</pname><age>27 January 1986 (aged 28)</age><caps>25</caps><club>Spain Celta Vigo</club></player>
+   </players>   
+  </team>
+  <team>
+    <id>AUS</id>
+    <name>Australia</name>
+    <coach>Ange Postecoglou</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Eugene Galekovic</pname><age>12 June 1981 (aged 33)</age><caps>8</caps><club>Australia Adelaide United</club></player>
+        <player><no>2</no><pos>GK</pos><pname>Mathew Ryan</pname><age>8 April 1992 (aged 22</age><caps>6</caps><club>Belgium Club Brugge</club></player>
+        <player><no>3</no><pos>GK</pos><pname>Mitchell Langerak</pname><age>22 August 1988 (aged 25)</age><caps>3</caps><club>Germany Borussia Dortmund</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Matthew Špiranovic</pname><age>27 June 1988 (aged 25)</age><caps>17</caps><club>Australia Western Sydney Wanderers</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Ryan McGowan</pname><age>15 August 1989 (aged 24)</age><caps>9</caps><club>China Shandong Luneng Taishan</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Ivan Franjic</pname><age>10 September 1987 (aged 26)</age><caps>8</caps><club>Australia Brisbane Roar</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Jason Davidson</pname><age>29 June 1991 (aged 22)</age><caps>6</caps><club>Netherlands Heracles Almelo</club></player>
+        <player><no>8</no><pos>DF</pos><pname>Alex Wilkinson</pname><age>13 August 1984 (aged 29)</age><caps>2</caps><club>South Korea Jeonbuk Hyundai Motors</club></player>
+        <player><no>9</no><pos>DF</pos><pname>Bailey Wright</pname><age>28 July 1992 (aged 21)</age><caps>0</caps><club>England Preston North End</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Mark Bresciano</pname><age>11 February 1980 (aged 34)</age><caps>74</caps><club>Qatar Al-Gharafa</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Matt McKay</pname><age>11 January 1983 (aged 31)</age><caps>46</caps><club>Australia Brisbane Roar</club></player>
+        <player><no>12</no><pos>MF</pos><pname>Mile Jedinak (c)</pname><age>3 August 1984 (aged 29)</age><caps>43</caps><club>England Crystal Palace</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Mark Milligan</pname><age>4 August 1985 (aged 28)</age><caps>28</caps><club>Australia Melbourne Victory</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Dario Vidošic</pname><age>8 April 1987 (aged 27)</age><caps>22</caps><club>Switzerland Sion</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Tommy Oar</pname><age>10 December 1991 (aged 22)</age><caps>14</caps><club>Netherlands Utrecht</club></player>
+        <player><no>16</no><pos>MF</pos><pname>James Holland</pname><age>15 May 1989 (aged 25)</age><caps>13</caps><club>Austria Austria Wien</club></player>
+        <player><no>17</no><pos>MF</pos><pname>James Troisi</pname><age>3 July 1988 (aged 25)</age><caps>10</caps><club>Italy Atalanta</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Oliver Bozanic</pname><age>8 January 1989 (aged 25)</age><caps>3</caps><club>Switzerland Luzern</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Ben Halloran</pname><age>14 June 1992 (aged 21)</age><caps>1</caps><club>Germany Fortuna Düsseldorf</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Massimo Luongo</pname><age>25 September 1992 (aged 21</age><caps>1</caps><club>England Swindon Town</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Tim Cahill</pname><age>6 December 1979 (aged 34)</age><caps>68</caps><club>United States New York Red Bulls</club></player>
+        <player><no>22</no><pos>FW</pos><pname>Mathew Leckie</pname><age>4 February 1991 (aged 23)</age><caps>7</caps><club>Germany FSV Frankfurt</club></player>
+        <player><no>23</no><pos>FW</pos><pname>Adam Taggart</pname><age>2 June 1993 (aged 21)</age><caps>4</caps><club>Australia Newcastle Jets</club></player>
+   </players>   
+  </team>
+  
+  <team>
+    <id>COL</id>
+    <name>Colombia</name>
+    <coach>José Pékerman</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Faryd Mondragón</pname><age>21 June 1971 (aged 42)</age><caps>55</caps><club>Colombia Deportivo Cali</club></player>
+        <player><no>2</no><pos>GK</pos><pname>David Ospina</pname><age>31 August 1988 (aged 25)</age><caps>42</caps><club>France Nice</club></player>
+        <player><no>3</no><pos>GK</pos><pname>Camilo Vargas</pname><age>1 September 1989 (aged 24)</age><caps>0</caps><club>Colombia Santa Fe</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Mario Yepes (c)</pname><age>13 January 1976 (aged 38)</age><caps>96</caps><club>Italy Atalanta</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Juan Camilo Zúñiga</pname><age>14 December 1985 (aged 28)</age><caps>52</caps><club>Italy Napoli</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Pablo Armero</pname><age>2 November 1986 (aged 27)</age><caps>51</caps><club>England West Ham United</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Cristián Zapata</pname><age>30 September 1986 (aged 27)</age><caps>21</caps><club>Italy Milan</club></player>
+        <player><no>8</no><pos>DF</pos><pname>Carlos Valdés</pname><age>22 May 1985 (aged 29)</age><caps>13</caps><club>Argentina San Lorenzo</club></player>
+        <player><no>9</no><pos>DF</pos><pname>Santiago Arias</pname><age>13 January 1992 (aged 22)</age><caps>5</caps><club>Netherlands PSV Eindhoven</club></player>
+        <player><no>10</no><pos>DF</pos><pname>Éder �?lvarez Balanta</pname><age>28 February 1993 (aged 21)</age><caps>2</caps><club>Argentina River Plate</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Abel Aguilar</pname><age>6 January 1985 (aged 29)</age><caps>48</caps><club>France Toulouse</club></player>
+        <player><no>12</no><pos>MF</pos><pname>Fredy Guarín</pname><age>30 June 1986 (aged 27)</age><caps>48</caps><club>Italy Internazionale</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Carlos Sánchez</pname><age>6 February 1986 (aged 28)</age><caps>44</caps><club>Spain Elche</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Aldo Leão Ramírez</pname><age>18 April 1981 (aged 33)</age><caps>29</caps><club>Mexico Morelia</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Juan Guillermo Cuadrado</pname><age>26 May 1988 (aged 26)</age><caps>26</caps><club>Italy Fiorentina</club></player>
+        <player><no>16</no><pos>MF</pos><pname>James Rodríguez</pname><age>12 July 1991 (aged 22)</age><caps>21</caps><club>France Monaco</club></player>
+        <player><no>17</no><pos>v</pos><pname>Alexander Mejía</pname><age>7 September 1988 (aged 25)</age><caps>9</caps><club>Colombia Atlético Nacional</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Víctor Ibarbo</pname><age>19 May 1990 (aged 24)</age><caps>8</caps><club>Italy Cagliari</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Juan Fernando Quintero</pname><age>18 January 1993 (aged 21)</age><caps>4</caps><club>Portugal Porto</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Teófilo Gutiérrez</pname><age>28 May 1985 (aged 29)</age><caps>30</caps><club>Argentina River Plate</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Jackson Martínez</pname><age>3 October 1986 (aged 27)</age><caps>27</caps><club>Portugal Porto</club></player>
+        <player><no>22</no><pos>FW</pos><pname>Adrián Ramos</pname><age>22 January 1986 (aged 28)</age><caps>24</caps><club>Germany Hertha BSC</club></player>
+        <player><no>23</no><pos>FW</pos><pname>Carlos Bacca</pname><age>8 September 1986 (aged 27)</age><caps>10</caps><club>Spain Sevilla</club></player>
+                
+   </players> 
+  </team>
+  <team>
+    <id>GRC</id>
+    <name>Greece</name>
+    <coach>Fernando Santos</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Orestis Karnezis</pname><age>11 July 1985 (aged 28)</age><caps>18</caps><club>Spain Granada</club></player>
+        <player><no>2</no><pos>GK</pos><pname>Panagiotis Glykos</pname><age>3 June 1986 (aged 28)</age><caps>1</caps><club>Greece PAOK</club></player>
+        <player><no>3</no><pos>GK</pos><pname>Stefanos Kapino</pname><age>18 March 1994 (aged 20)</age><caps>1</caps><club>Greece Panathinaikos</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Vasilis Torosidis</pname><age>10 June 1985 (aged 29</age><caps>65</caps><club>Italy Roma</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Loukas Vyntra</pname><age>5 February 1981 (aged 33)</age><caps>48</caps><club>Spain Levante</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Sokratis Papastathopoulos</pname><age>9 June 1988 (aged 26)</age><caps>47</caps><club>Germany Borussia Dortmund</club></player>
+        <player><no>7</no><pos>DF</pos><pname>José Holebas</pname><age>27 June 1984 (aged 29)</age><caps>21</caps><club>Greece Olympiacos</club></player>
+        <player><no>8</no><pos>DF</pos><pname>Vangelis Moras</pname><age>26 August 1981 (aged 32)</age><caps>17</caps><club>Italy Verona</club></player>
+        <player><no>9</no><pos>DF</pos><pname>Giorgos Tzavellas</pname><age>26 November 1987 (aged 26)</age><caps>12</caps><club>Greece PAOK</club></player>
+        <player><no>10</no><pos>DF</pos><pname>Kostas Manolas</pname><age>14 June 1991 (aged 22)</age><caps>7</caps><club>Greece Olympiacos</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Giorgos Karagounis (c)</pname><age>6 March 1977 (aged 37)</age><caps>133</caps><club>England Fulham</club></player>d
+        <player><no>12</no><pos>MF</pos><pname>Kostas Katsouranis</pname><age>21 June 1979 (aged 34)</age><caps>110</caps><club>Greece PAOK</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Alexandros Tziolis</pname><age>13 February 1985 (aged 29)</age><caps>48</caps><club>Turkey Kayserispor</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Giannis Maniatis</pname><age>12 October 1986 (aged 27)</age><caps>29</caps><club>Greece Olympiacos</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Giannis Fetfatzidis</pname><age>21 December 1990 (aged 23)</age><caps>17</caps><club>Italy Genoa</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Lazaros Christodoulopoulos</pname><age>19 December 1986 (aged 27)</age><caps>17</caps><club>Italy Bologna</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Panagiotis Kone</pname><age>26 July 1987 (aged 26)</age><caps>14</caps><club>Italy Bologna</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Panagiotis Tachtsidis</pname><age>15 February 1991 (aged 23)</age><caps>4</caps><club>Italy Torino</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Andreas Samaris</pname><age>13 June 1989 (aged 24)</age><caps>3</caps><club>Greece Olympiacos</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Dimitris Salpingidis</pname><age>18 August 1981 (aged 32)</age><caps>74</caps><club>Greece PAOK</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Giorgos Samaras</pname><age>21 February 1985 (aged 29)</age><caps>72</caps><club>Scotland Celtic</club></player>
+        <player><no>22</no><pos>FW</pos><pname>Theofanis Gekas</pname><age>23 May 1980 (aged 34)</age><caps>70</caps><club>Turkey Konyaspor</club></player>
+        <player><no>23</no><pos>FW</pos><pname>Kostas Mitroglou</pname><age>12 March 1988 (aged 26)</age><caps>30</caps><club>England Fulham</club></player>
+        
+   </players> 
+  </team>
+  
+  <team>
+    <id>CIV</id>
+    <name>Côte d'Ivoire</name>
+    <coach>Sabri Lamouchi</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Boubacar Barry</pname><age>30 December 1979 (aged 34)</age><caps>80</caps><club>Belgium Lokeren</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Ousmane Viera</pname><age>21 December 1986 (aged 27)</age><caps>3</caps><club>Turkey Çaykur Rizespor</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Arthur Boka</pname><age>2 April 1983 (aged 31)</age><caps>80</caps><club>Germany VfB Stuttgart</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Kolo Touré</pname><age>19 March 1981 (aged 33)</age><caps>107</caps><club>England Liverpool</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Didier Zokora</pname><age>14 December 1980 (aged 33)</age><caps>120</caps><club>Turkey Trabzonspor</club></player>
+        <player><no>6</no><pos>FW</pos><pname>Mathis Bolly</pname><age>14 November 1990 (aged 23)</age><caps>4</caps><club>Germany Fortuna Düsseldorf</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Jean-Daniel Akpa-Akpro</pname><age>11 October 1992 (aged 21)</age><caps>1</caps><club>France Toulouse</club></player>
+        <player><no>8</no><pos>FW</pos><pname>Salomon Kalou</pname><age>5 August 1985 (aged 28)</age><caps>65</caps><club>France Lille</club></player>
+        <player><no>9</no><pos>MF</pos><pname>Cheick Tioté</pname><age>21 June 1986 (aged 27)</age><caps>45</caps><club>England Newcastle United</club></player>
+        <player><no>10</no><pos>FW</pos><pname>Gervinho</pname><age>27 May 1987 (aged 27)</age><caps>54</caps><club>Italy Roma</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Didier Drogba (c)</pname><age>11 March 1978 (aged 36)</age><caps>101</caps><club>Turkey Galatasaray</club></player>
+        <player><no>12</no><pos>FW</pos><pname>Wilfried Bony</pname><age>10 December 1988 (aged 25)</age><caps>25</caps><club>Wales Swansea City</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Didier Ya Konan</pname><age>25 February 1984 (aged 30)</age><caps>26</caps><club>Germany Hannover 96</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Ismaël Diomandé</pname><age>28 August 1992 (aged 21)</age><caps>2</caps><club>France Saint-Étienne</club></player>
+        <player><no>15</no><pos>FW</pos><pname>Max Gradel</pname><age>30 November 1987 (aged 26)</age><caps>26</caps><club>France Saint-Étienne</club></player>
+        <player><no>16</no><pos>GK</pos><pname>Sylvain Gbohouo</pname><age>29 October 1988 (aged 25)</age><caps>1</caps><club>Ivory Coast Séwé Sport</club></player>
+        <player><no>17</no><pos>DF</pos><pname>Serge Aurier</pname><age>24 December 1992 (aged 21)</age><caps>9</caps><club>France Toulouse</club></player>
+        <player><no>18</no><pos>DF</pos><pname>Constant Djakpa</pname><age>17 October 1986 (aged 27)</age><caps>5</caps><club>Germany Eintracht Frankfurt</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Yaya Touré</pname><age>13 May 1983 (aged 31)</age><caps>83</caps><club>England Manchester City</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Serey Die</pname><age>7 November 1984 (aged 29)</age><caps>7</caps><club>Switzerland Basel</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Giovanni Sio</pname><age>31 March 1989 (aged 25)</age><caps>7</caps><club>Switzerland Basel</club></player>
+        <player><no>22</no><pos>DF</pos><pname>Sol Bamba</pname><age>13 January 1985 (aged 29)</age><caps>44</caps><club>Turkey Trabzonspor</club></player>
+        <player><no>23</no><pos>GK</pos><pname>Sayouba Mandé</pname><age>5 June 1993 (aged 21)</age><caps>1</caps><club>Norway Stabæk</club></player>
+        
+   </players> 
+  </team>
+  
+  <team>
+    <id>JPN</id>
+    <name>Japan</name>
+    <coach>Alberto Zaccheroni</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Eiji Kawashima</pname><age>20 March 1983 (aged 31)</age><caps>56</caps><club>Belgium Standard Liège</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Atsuto Uchida</pname><age>27 March 1988 (aged 26)</age><caps>67</caps><club>Germany Schalke 04</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Gotoku Sakai</pname><age>14 February 1991 (aged 23)</age><caps>12</caps><club>Germany VfB Stuttgart</club></player>
+        <player><no>4</no><pos>MF</pos><pname>Keisuke Honda</pname><age>13 June 1986 (aged 27)</age><caps>55</caps><club>Italy Milan</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Yuto Nagatomo</pname><age>12 September 1986 (aged 27)</age><caps>69</caps><club>Italy Internazionale</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Masato Morishige</pname><age>21 May 1987 (aged 27)</age><caps>9</caps><club>Japan F.C. Tokyo</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Yasuhito Endo</pname><age>28 January 1980 (aged 34)</age><caps>143</caps><club>Japan Gamba Osaka</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Hiroshi Kiyotake</pname><age>12 November 1989 (aged 24)</age><caps>25</caps><club>Germany 1. FC Nürnberg</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Shinji Okazaki</pname><age>16 April 1986 (aged 28)</age><caps>75</caps><club>Germany Mainz 05</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Shinji Kagawa</pname><age>17 March 1989 (aged 25)</age><caps>56</caps><club>England Manchester United</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Yoichiro Kakitani</pname><age>3 January 1990 (aged 24)</age><caps>11</caps><club>apan Cerezo Osaka</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Shusaku Nishikawa</pname><age>18 June 1986 (aged 27)</age><caps>12</caps><club>Japan Urawa Red Diamonds</club></player>
+        <player><no>13</no><pos>FW</pos><pname>Yoshito Okubo</pname><age>9 June 1982 (aged 32)</age><caps>56</caps><club>Japan Kawasaki Frontale</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Toshihiro Aoyama</pname><age>22 February 1986 (aged 28)</age><caps>5</caps><club>Japan Sanfrecce Hiroshima</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Yasuyuki Konno</pname><age>25 January 1983 (aged 31)</age><caps>80</caps><club>Japan Gamba Osaka</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Hotaru Yamaguchi</pname><age>6 October 1990 (aged 23)</age><caps>11</caps><club>Japan Cerezo Osaka</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Makoto Hasebe (c)</pname><age>18 January 1984 (aged 30)</age><caps>78</caps><club>Germany 1. FC Nürnberg</club></player>
+        <player><no>18</no><pos>FW</pos><pname>Yuya Osako</pname><age>18 May 1990 (aged 24)</age><caps>8</caps><club>Germany 1860 München</club></player>
+        <player><no>19</no><pos>DF</pos><pname>Masahiko Inoha</pname><age>28 August 1983 (aged 30)</age><caps>21</caps><club>Japan Jubilo Iwata</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Manabu Saito</pname><age>4 April 1990 (aged 24)</age><caps>4</caps><club>Japan Yokohama F. Marinos</club></player>
+        <player><no>21</no><pos>DF</pos><pname>Hiroki Sakai</pname><age>12 April 1990 (aged 24)</age><caps>17</caps><club>Germany Hannover 96</club></player>
+        <player><no>22</no><pos>DF</pos><pname>Maya Yoshida</pname><age>24 August 1988 (aged 25)</age><caps>40</caps><club>England Southampton</club></player>
+        <player><no>23</no><pos>GK</pos><pname>Shuichi Gonda</pname><age>3 March 1989 (aged 25)</age><caps>2</caps><club>Japan F.C. Tokyo</club></player>
+                
+   </players> 
+  </team>
+  
+  <team>
+    <id>URY</id>
+    <name>Uruguay</name>
+    <coach>Óscar Tabárez</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Fernando Muslera</pname><age>16 June 1986 (aged 27</age><caps>57</caps><club>Turkey Galatasaray</club></player>
+        <player><no>2</no><pos>GK</pos><pname>Martín Silva</pname><age>25 March 1983 (aged 31)</age><caps>4</caps><club>Brazil Vasco da Gama</club></player>
+        <player><no>3</no><pos>GK</pos><pname>Rodrigo Muñoz</pname><age>22 January 1982 (aged 32)</age><caps>0</caps><club>Paraguay Libertad</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Diego Lugano (c)</pname><age>2 November 1980 (aged 33)</age><caps>93</caps><club>England West Bromwich Albion</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Maxi Pereira</pname><age>8 June 1984 (aged 30)</age><caps>89</caps><club>Portugal Benfica</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Diego Godín</pname><age>16 February 1986 (aged 28)</age><caps>76</caps><club>Spain Atlético Madrid</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Martín Cáceres</pname><age>7 April 1987 (aged 27)</age><caps>56</caps><club>Italy Juventus</club></player>
+        <player><no>8</no><pos>DF</pos><pname>Jorge Fucile</pname><age>19 November 1984 (aged 29)</age><caps>41</caps><club>Portugal Porto</club></player>
+        <player><no>9</no><pos>DF</pos><pname>Sebastián Coates</pname><age>7 October 1990 (aged 23)</age><caps>14</caps><club>Uruguay Nacional</club></player>
+        <player><no>10</no><pos>DF</pos><pname>José María Giménez</pname><age>20 January 1995 (aged 19)</age><caps>5</caps><club>Spain Atlético Madrid</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Diego Pérez</pname><age>18 May 1980 (aged 34)</age><caps>89</caps><club>Italy Bologna</club></player>
+        <player><no>12</no><pos>MF</pos><pname>Cristian Rodríguez</pname><age>30 September 1985 (aged 28)</age><caps>72</caps><club>Spain Atlético Madrid</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Walter Gargano</pname><age>23 July 1984 (aged 29)</age><caps>62</caps><club>Italy Parma</club></player>
+        <player><no>14</no><pos>MF</pos><pname>�?lvaro Pereira</pname><age>28 November 1985</age><caps>56</caps><club>Brazil São Paulo</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Egidio Arévalo Ríos</pname><age>1 January 1982 (aged 32)</age><caps>54</caps><club>Mexico Morelia</club></player>
+        <player><no>16</no><pos>MF</pos><pname>�?lvaro González</pname><age>29 October 1984 (aged 29)</age><caps>42</caps><club>Italy Lazio</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Gastón Ramírez</pname><age>2 December 1990 (aged 23)</age><caps>28</caps><club>England Southampton</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Nicolás Lodeiro</pname><age>21 March 1989 (aged 25)</age><caps>26</caps><club>Brazil Botafogo</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Diego Forlán</pname><age>19 May 1979 (aged 35)</age><caps>109</caps><club>Japan Cerezo Osaka</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Luis Suárez</pname><age>24 January 1987 (aged 27)</age><caps>77</caps><club>England Liverpool</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Edinson Cavani</pname><age>14 February 1987 (aged 27)</age><caps>61</caps><club>France Paris Saint-Germain</club></player>
+        <player><no>22</no><pos>FW</pos><pname>Abel Hernández</pname><age>8 August 1990 (aged 23)</age><caps>12</caps><club>Italy Palermo</club></player>
+        <player><no>23</no><pos>FW</pos><pname>Christian Stuani</pname><age>12 October 1986 (aged 27)</age><caps>9</caps><club>Spain Espanyol</club></player>
+        
+   </players> 
+  </team>
+  
+  <team>
+    <id>CRI</id>
+    <name>Costa Rica</name>
+    <coach>Jorge Luis Pinto</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Keylor Navas</pname><age>15 December 1986 (aged 27)</age><caps>52</caps><club>Spain Levante</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Johnny Acosta</pname><age>21 July 1983 (aged 30)</age><caps>25</caps><club>Costa Rica Alajuelense</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Giancarlo González</pname><age>8 February 1988 (aged 26)</age><caps>34</caps><club>United States Columbus Crew</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Michael Umaña</pname><age>16 July 1982 (aged 31)</age><caps>82</caps><club>Costa Rica Saprissa</club></player>
+        <player><no>5</no><pos>MF</pos><pname>Celso Borges</pname><age>27 May 1988 (aged 26)</age><caps>62</caps><club>Sweden AIK</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Óscar Duarte</pname><age>3 June 1989 (aged 25)</age><caps>10</caps><club>Belgium Club Brugge</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Christian Bolaños</pname><age>17 May 1984 (aged 30)</age><caps>54</caps><club>Denmark Copenhagen</club></player>
+        <player><no>8</no><pos>DF</pos><pname>Heiner Mora</pname><age>20 June 1984 (aged 29)</age><caps>21</caps><club>Costa Rica Saprissa</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Joel Campbell</pname><age>26 June 1992 (aged 21)</age><caps>32</caps><club>Greece Olympiacos</club></player>
+        <player><no>10</no><pos>FW</pos><pname>Bryan Ruiz (c)</pname><age>18 August 1985 (aged 28)</age><caps>62</caps><club>Netherlands PSV</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Michael Barrantes</pname><age>4 October 1983 (aged 30)</age><caps>50</caps><club>Norway Aalesund</club></player>
+        <player><no>12</no><pos>DF</pos><pname>Waylon Francis</pname><age>20 September 1990 (aged 23)</age><caps>1</caps><club>United States Columbus Crew</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Esteban Granados</pname><age>25 October 1985 (aged 28)</age><caps>11</caps><club>Costa Rica Herediano</club></player>
+        <player><no>14</no><pos>FW</pos><pname>Randall Brenes</pname><age>13 August 1983 (aged 30)</age><caps>38</caps><club>Costa Rica Cartaginés</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Júnior Díaz</pname><age>12 September 1983 (aged 30)</age><caps>61</caps><club>Germany Mainz 05</club></player>
+        <player><no>16</no><pos>DF</pos><pname>Cristian Gamboa</pname><age>24 October 1989 (aged 24)</age><caps>25</caps><club>Norway Rosenborg</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Yeltsin Tejeda</pname><age>17 March 1992 (aged 22)</age><caps>22</caps><club>Costa Rica Saprissa</club></player>
+        <player><no>18</no><pos>GK</pos><pname>Patrick Pemberton</pname><age>4 April 1982 (aged 32)</age><caps>20</caps><club>Costa Rica Alajuelense</club></player>
+        <player><no>19</no><pos>DF</pos><pname>Roy Miller</pname><age>24 November 1984 (aged 29)</age><caps>48</caps><club>United States New York Red Bulls</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Diego Calvo</pname><age>25 March 1991 (aged 23)</age><caps>9</caps><club>Norway Vålerenga</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Marco Ureña</pname><age>5 March 1990 (aged 24)</age><caps>23</caps><club>Russia Kuban Krasnodar</club></player>
+        <player><no>22</no><pos>MF</pos><pname>José Miguel Cubero</pname><age>14 February 1987 (aged 27)</age><caps>34</caps><club>Costa Rica Herediano</club></player>
+        <player><no>23</no><pos>GK</pos><pname>Daniel Cambronero</pname><age>8 January 1986 (aged 28)</age><caps>4</caps><club>Costa Rica Herediano</club></player> 
+        
+   </players> 
+  </team>
+  
+  <team>
+    <id>GBR</id>
+    <name>England</name>
+    <coach>Roy Hodgson</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Joe Hart</pname><age>19 April 1987 (aged 27)</age><caps>40</caps><club>England Manchester City</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Glen Johnson</pname><age>23 August 1984 (aged 29)</age><caps>51</caps><club>England Liverpool</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Leighton Baines</pname><age>11 December 1984 (aged 29)</age><caps>23</caps><club>England Everton</club></player>
+        <player><no>4</no><pos>MF</pos><pname>Steven Gerrard (c)</pname><age>30 May 1980 (aged 34)</age><caps>110</caps><club>England Liverpool</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Gary Cahill</pname><age>19 December 1985 (aged 28)</age><caps>23</caps><club>England Chelsea</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Phil Jagielka</pname><age>17 August 1982 (aged 31)</age><caps>25</caps><club>England Everton</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Jack Wilshere</pname><age>1 January 1992 (aged 22)</age><caps>16</caps><club>England Arsenal</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Frank Lampard</pname><age>20 June 1978 (aged 35)</age><caps>103</caps><club>England Chelsea</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Daniel Sturridge</pname><age>1 September 1989 (aged 24)</age><caps>11</caps><club>England Liverpool</club></player>
+        <player><no>10</no><pos>FW</pos><pname>Wayne Rooney</pname><age>24 October 1985 (aged 28)</age><caps>90</caps><club>England Manchester United</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Danny Welbeck</pname><age>26 November 1990 (aged 23)</age><caps>22</caps><club>England Manchester United</club></player>
+        <player><no>12</no><pos>DF</pos><pname>Chris Smalling</pname><age>22 November 1989 (aged 24)</age><caps>11</caps><club>England Manchester United</club></player>
+        <player><no>13</no><pos>GK</pos><pname>Ben Foster</pname><age>3 May 1983 (aged 31)</age><caps>6</caps><club>England West Bromwich Albion</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Jordan Henderson</pname><age>17 June 1990 (aged 23)</age><caps>9</caps><club>England Liverpool</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Alex Oxlade-Chamberlain</pname><age>15 August 1993 (aged 20)</age><caps>14</caps><club>England Arsenal</club></player>
+        <player><no>16</no><pos>DF</pos><pname>Phil Jones</pname><age>21 February 1992 (aged 22)</age><caps>9</caps><club>England Manchester United</club></player>
+        <player><no>17</no><pos>MF</pos><pname>James Milner</pname><age>4 January 1986 (aged 28)</age><caps>46</caps><club>England Manchester City</club></player>
+        <player><no>18</no><pos>FW</pos><pname>Rickie Lambert</pname><age>16 February 1982 (aged 32)</age><caps>4</caps><club>England Southampton</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Raheem Sterling</pname><age>8 December 1994 (aged 19)</age><caps>3</caps><club>England Liverpool</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Adam Lallana</pname><age>10 May 1988 (aged 26)</age><caps>4</caps><club>England Southampton</club></player>
+        <player><no>21</no><pos>MF</pos><pname>Ross Barkley</pname><age>5 December 1993 (aged 20)</age><caps>4</caps><club>England Everton</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Fraser Forster</pname><age>17 March 1988 (aged 26)</age><caps>1</caps><club>Scotland Celtic</club></player>
+        <player><no>23</no><pos>DF</pos><pname>Luke Shaw</pname><age>12 July 1995 (aged 18)</age><caps>1</caps><club>England Southampton</club></player>        
+   </players> 
+  </team>
+  
+  <team>
+    <id>ITA</id>
+    <name>Italy</name>
+    <coach>Cesare Prandell</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Gianluigi Buffon (c)</pname><age>28 January 1978 (aged 36)</age><caps>139</caps><club>Italy Juventus</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Mattia De Sciglio</pname><age>20 October 1992 (aged 21)</age><caps>10</caps><club>Italy Milan</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Giorgio Chiellini</pname><age>14 August 1984 (aged 29)</age><caps>67</caps><club>Italy Juventus</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Matteo Darmian</pname><age>2 December 1989 (aged 24)</age><caps>1</caps><club>Italy Torino</club></player>
+        <player><no>5</no><pos>MF</pos><pname>Thiago Motta</pname><age>28 August 1982 (aged 31)</age><caps>20</caps><club>France Paris Saint-Germain</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Antonio Candreva</pname><age>28 February 1987 (aged 27)</age><caps>19</caps><club>Italy Lazio</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Ignazio AbateIgnazio Abate</pname><age>12 November 1986 (aged 27)</age><caps>19</caps><club>Italy Milan</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Claudio Marchisio</pname><age>19 January 1986 (aged 28)</age><caps>43</caps><club>Italy Juventus</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Mario Balotelli</pname><age>12 August 1990 (aged 23)</age><caps>29</caps><club>Italy Milan</club></player>
+        <player><no>10</no><pos>FW</pos><pname>Antonio Cassano</pname><age>12 July 1982 (aged 31)</age><caps>36</caps><club>Italy Parma</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Alessio Cerci</pname><age>23 July 1987 (aged 26)</age><caps>11</caps><club>Italy Torino</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Salvatore Sirigu</pname><age>12 January 1987 (aged 27)</age><caps>8</caps><club>France Paris Saint-Germain</club></player>
+        <player><no>13</no><pos>GK</pos><pname>Mattia Perin</pname><age>10 November 1992 (aged 21)</age><caps>0</caps><club>Italy Genoa</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Alberto Aquilani</pname><age>7 July 1984 (aged 29)</age><caps>34</caps><club>Italy Fiorentina</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Andrea Barzagli</pname><age>8 May 1981 (aged 33)</age><caps>47</caps><club>Italy Juventus</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Daniele De Rossi</pname><age>24 July 1983 (aged 30)</age><caps>94</caps><club>Italy Roma</club></player>
+        <player><no>17</no><pos>FW</pos><pname>Ciro Immobile</pname><age>20 February 1990 (aged 24)</age><caps>2</caps><club>Italy Torino</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Marco Parolo</pname><age>25 January 1985 (aged 29)</age><caps>3</caps><club>Italy Parma</club></player>
+        <player><no>19</no><pos>DF</pos><pname>Leonardo Bonucci</pname><age>1 May 1987 (aged 27)</age><caps>36</caps><club>Italy Juventus</club></player>
+        <player><no>20</no><pos>DF</pos><pname>Gabriel Paletta</pname><age>15 February 1986 (aged 28)</age><caps>2</caps><club>Italy Parma</club></player>
+        <player><no>21</no><pos>MF</pos><pname>Andrea Pirlo</pname><age>19 May 1979 (aged 35)</age><caps>108</caps><club>Italy Juventus</club></player>
+        <player><no>22</no><pos>FW</pos><pname>Lorenzo Insigne</pname><age>4 June 1991 (aged 23)</age><caps>4</caps><club>Italy Napoli</club></player>
+        <player><no>23</no><pos>MF</pos><pname>Marco Verratti</pname><age>5 November 1992 (aged 21)</age><caps>5</caps><club>France Paris Saint-Germain</club></player>
+                
+   </players> 
+  </team>
+  
+  <team>
+    <id>CHE</id>
+    <name>Switzerland</name>
+    <coach>Ottmar Hitzfeld</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Diego Benaglio</pname><age>8 September 1983 (aged 30)</age><caps>56</caps><club>Germany VfL Wolfsburg</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Stephan Lichtsteiner</pname><age>16 January 1984 (aged 30)</age><caps>62</caps><club>Italy Juventus</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Reto Ziegler</pname><age>16 January 1986 (aged 28)</age><caps>35</caps><club>Italy Sassuolo</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Philippe Senderos</pname><age>14 February 1985 (aged 29)</age><caps>53</caps><club>Spain Valencia</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Steve von Bergen</pname><age>10 June 1983 (aged 31)</age><caps>40</caps><club>Switzerland Young Boys</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Michael Lang</pname><age>8 February 1991 (aged 23)</age><caps>5</caps><club>Switzerland Grasshopper</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Tranquillo Barnetta</pname><age>22 May 1985 (aged 29)</age><caps>73</caps><club>Germany Eintracht Frankfurt</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Gökhan Inler (c)</pname><age>7 June 1984 (aged 29)</age><caps>71</caps><club>Italy Napoli</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Haris Seferovic</pname><age>22 February 1992 (aged 22)</age><caps>10</caps><club>Spain Real Sociedad</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Granit Xhaka</pname><age>27 September 1992 (aged 21)</age><caps>25</caps><club>Germany Borussia Mönchengladbach</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Valon Behrami</pname><age>19 April 1985 (aged 29)</age><caps>47</caps><club>Italy Napoli</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Yann Sommer</pname><age>17 December 1988 (aged 25)</age><caps>6</caps><club>Switzerland Basel</club></player>
+        <player><no>13</no><pos>DF</pos><pname>?Ricardo Rodríguez</pname><age>25 August 1992 (aged 21)</age><caps>20</caps><club>Germany VfL Wolfsburg</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Valentin Stocker</pname><age>12 April 1989 (aged 25)</age><caps>23</caps><club>Switzerland Basel</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Blerim Džemaili</pname><age>12 April 1986 (aged 28)</age><caps>33</caps><club>Italy Napoli</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Gelson Fernandes</pname><age>2 September 1986 (aged 27)</age><caps>47</caps><club>Germany SC Freiburg</club></player>
+        <player><no>17</no><pos>FW</pos><pname>Mario Gavranovic</pname><age>24 November 1989 (aged 24)</age><caps>10</caps><club>Switzerland Zürich</club></player>
+        <player><no>18</no><pos>FW</pos><pname>Admir Mehmedi</pname><age>16 March 1991 (aged 23)</age><caps>20</caps><club>Germany SC Freiburg</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Josip Drmic</pname><age>8 August 1992 (aged 21)</age><caps>6</caps><club>Germany 1. FC Nürnberg</club></player>
+        <player><no>20</no><pos>DF</pos><pname>Johan Djourou</pname><age>18 January 1987 (aged 27)</age><caps>44</caps><club>Germany Hamburger SV</club></player>
+        <player><no>21</no><pos>GK</pos><pname>Roman Bürki</pname><age>14 November 1990 (aged 23)</age><caps>0</caps><club>Switzerland Grasshopper</club></player>
+        <player><no>22</no><pos>DF</pos><pname>Fabian Schär</pname><age>20 December 1991 (aged 22)</age><caps>5</caps><club>Switzerland Basel</club></player>
+        <player><no>23</no><pos>MF</pos><pname>Xherdan Shaqiri</pname><age>10 October 1991 (aged 22)</age><caps>32</caps><club>Germany Bayern Munich</club></player>
+                
+   </players> 
+  </team>
+  
+  <team>
+    <id>ECU</id>
+    <name>Ecuador</name>
+    <coach>Reinaldo Rueda</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Máximo Banguera</pname><age>16 December 1985 (aged 28)</age><caps>24</caps><club>Ecuador Barcelona</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Jorge Guagua</pname><age>28 September 1981 (aged 32)</age><caps>58</caps><club>Ecuador Emelec</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Frickson Erazo</pname><age>5 May 1988 (aged 26)</age><caps>36</caps><club>Brazil Flamengo</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Juan Carlos Paredes</pname><age>8 July 1987 (aged 26)</age><caps>37</caps><club>Ecuador Barcelona</club></player>
+        <player><no>5</no><pos>MF</pos><pname>Renato Ibarra</pname><age>20 January 1991 (aged 23)</age><caps>17</caps><club>Netherlands Vitesse</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Christian Noboa</pname><age>9 April 1985 (aged 29)</age><caps>41</caps><club>Russia Dynamo Moscow</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Jefferson Montero</pname><age>1 September 1989 (aged 24)</age><caps>39</caps><club>Mexico Morelia</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Édison Méndez</pname><age>15 March 1979 (aged 35)</age><caps>109</caps><club>Colombia Santa Fe</club></player>
+        <player><no>9</no><pos>MF</pos><pname>Joao Rojas</pname><age>14 June 1989 (aged 24)</age><caps>29</caps><club>Mexico Cruz Azul</club></player>
+        <player><no>10</no><pos>DF</pos><pname>Walter Ayoví</pname><age>11 August 1979 (aged 34)</age><caps>89</caps><club>Mexico Pachuca</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Felipe Caicedo</pname><age>5 September 1988 (aged 25)</age><caps>49</caps><club>United Arab Emirates Al-Jazira</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Adrián Bone</pname><age>8 September 1988 (aged 25)</age><caps>3</caps><club>Ecuador El Nacional</club></player>
+        <player><no>13</no><pos>FW</pos><pname>Enner Valencia</pname><age>11 April 1989 (aged 25)</age><caps>9</caps><club>Mexico Pachuca</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Segundo Castillo</pname><age>15 May 1982 (aged 32)</age><caps>81</caps><club>Saudi Arabia Al-Hilal</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Michael Arroyo</pname><age>23 April 1987 (aged 27)</age><caps>20</caps><club>Mexico Atlante</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Antonio Valencia(c)</pname><age>4 August 1985 (aged 28)</age><caps>70</caps><club>England Manchester United</club></player>
+        <player><no>17</no><pos>FW</pos><pname>Jaime Ayoví</pname><age>21 February 1988 (aged 26)</age><caps>30</caps><club>Mexico Tijuana</club></player>
+        <player><no>18</no><pos>DF</pos><pname>Óscar Bagüí</pname><age>10 December 1982 (aged 31)</age><caps>21</caps><club>Ecuador Emelec</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Luis Saritama</pname><age>20 October 1983 (aged 30)</age><caps>48</caps><club>Ecuador Barcelona</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Fidel Martínez</pname><age>15 February 1990 (aged 24)</age><caps>8</caps><club>Mexico Tijuana</club></player>
+        <player><no>21</no><pos>DF</pos><pname>Gabriel Achilier</pname><age>24 March 1985 (aged 29)</age><caps>22</caps><club>Ecuador Emelec</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Alexander Domínguez</pname><age>5 June 1987 (aged 27)</age><caps>18</caps><club>Ecuador LDU Quito</club></player>
+        <player><no>23</no><pos>MF</pos><pname>Carlos Gruezo</pname><age>19 April 1995 (aged 19)</age><caps>2</caps><club>Germany VfB Stuttgart</club></player>
+                
+   </players> 
+  </team>
+  
+  <team>
+        <id>FRA</id>
+    <name>France</name>
+    <coach>Didier Deschamps</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Hugo Lloris (c)</pname><age>26 December 1986 (aged 27)</age><caps>56</caps><club>England Tottenham Hotspur</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Mathieu Debuchy</pname><age>28 July 1985 (aged 28)</age><caps>20</caps><club>England Newcastle United</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Patrice Evra</pname><age>15 May 1981 (aged 33)</age><caps>57</caps><club>England Manchester United</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Raphaël Varane</pname><age>25 April 1993 (aged 21)</age><caps>5</caps><club>Spain Real Madrid</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Mamadou Sakho</pname><age>13 February 1990 (aged 24)</age><caps>18</caps><club>England Liverpool</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Yohan Cabaye</pname><age>14 January 1986 (aged 28)</age><caps>29</caps><club>France Paris Saint-Germain</club></player>
+        <player><no>7</no><pos>FW</pos><pname>Rémy Cabella</pname><age>8 March 1990 (aged 24)</age><caps>1</caps><club>France Montpellier</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Mathieu Valbuena</pname><age>28 September 1984 (aged 29)</age><caps>33</caps><club>France Marseille</club></player>
+        <player><no>9</no><pos>FW</pos><pname>?Olivier Giroud</pname><age>30 September 1986 (aged 27)</age><caps>29</caps><club>England Arsenal</club></player>
+        <player><no>10</no><pos>FW</pos><pname>Karim Benzema</pname><age>19 December 1987 (aged 26)</age><caps>65</caps><club>Spain Real Madrid</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Antoine Griezmann</pname><age>21 March 1991 (aged 23)</age><caps>3</caps><club>Spain Real Sociedad</club></player>
+        <player><no>12</no><pos>MF</pos><pname>Antoine Griezmann</pname><age>8 March 1984 (aged 30)</age><caps>11</caps><club>France Lille</club></player>
+        <player><no>13</no><pos>DF</pos><pname>Eliaquim Mangala</pname><age>13 February 1991 (aged 23)</age><caps>3</caps><club>Portugal Porto</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Blaise Matuidi</pname><age>9 April 1987 (aged 27)</age><caps>22</caps><club>France Paris Saint-Germain</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Bacary Sagna</pname><age>14 February 1983 (aged 31)</age><caps>40</caps><club>England Arsenal</club></player>
+        <player><no>16</no><pos>GK</pos><pname>Stéphane Ruffier</pname><age>27 September 1986 (age 27)</age><caps>2</caps><club>France Saint-Étienne</club></player>
+        <player><no>17</no><pos>DF</pos><pname>Lucas Digne</pname><age>20 July 1993 (aged 20)</age><caps>2</caps><club>France Paris Saint-Germain</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Moussa Sissoko</pname><age>16 August 1989 (aged 24)</age><caps>16</caps><club>?England Newcastle United</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Paul Pogba</pname><age>15 March 1993 (aged 21)</age><caps>10</caps><club>Italy Juventus</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Loïc Rémy</pname><age>2 January 1987 (aged 27)</age><caps>24</caps><club>England Newcastle United</club></player>
+        <player><no>21</no><pos>DF</pos><pname>Laurent Koscielny</pname><age>10 September 1985 (aged 28)</age><caps>17</caps><club>England Arsenal</club></player>
+        <player><no>22</no><pos>MF</pos><pname>Morgan Schneiderlin</pname><age>8 November 1989 (aged 24)</age><caps>0</caps><club>England Southampton</club></player>
+        <player><no>23</no><pos>GK</pos><pname>Mickaël Landreau</pname><age>14 May 1979 (aged 35)</age><caps>11</caps><club>France Bastia</club></player>
+                
+   </players> 
+  </team>
+  
+  <team>
+    <id>HND</id>
+    <name>Honduras</name>
+    <coach>Luis Fernando Suárez</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Luis López</pname><age>13 September 1993 (aged 20)</age><caps>0</caps><club>Honduras Real España</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Osman Chávez</pname><age>29 July 1984 (aged 29)</age><caps>54</caps><club>China Qingdao Jonoon</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Maynor Figueroa</pname><age>2 May 1983 (aged 31)</age><caps>104</caps><club>England Hull City</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Juan Pablo Montes</pname><age>26 October 1985 (aged 28)</age><caps>11</caps><club>Honduras Motagua</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Víctor Bernárdez</pname><age>24 May 1982 (aged 32)</age><caps>77</caps><club>United States San Jose Earthquakes</club></player>
+        <player><no>6</no><pos>DF </pos><pname>Juan Carlos García</pname><age>8 March 1988 (aged 26)</age><caps>33</caps><club>England Wigan Athletic</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Emilio Izaguirre</pname><age>10 May 1986 (aged 28)</age><caps>67</caps><club>Scotland Celtic</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Wilson Palacios</pname><age>29 July 1984 (aged 29</age><caps>94</caps><club>England Stoke City</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Jerry Palacio</pname><age>1 November 1981 (aged 32)</age><caps>23</caps><club>Costa Rica Alajuelense</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Mario Martínez</pname><age>30 July 1989 (aged 24)</age><caps>35</caps><club>Honduras Real España</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Jerry Bengtson</pname><age>8 April 1987 (aged 27)</age><caps>43</caps><club>United States New England Revolution</club></player>
+        <player><no>12</no><pos>MF</pos><pname>Edder Delgado</pname><age>November 20, 1986 (aged 27)</age><caps>25</caps><club>Honduras Real España</club></player>
+        <player><no>13</no><pos>FW</pos><pname>Carlo Costly</pname><age>18 July 1982 (aged 31)</age><caps>69</caps><club>Honduras Real España</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Óscar García</pname><age>4 September 1984 (aged 29)</age><caps>92</caps><club>United States Houston Dynamo</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Roger Espinoza</pname><age>25 October 1986 (aged 27) </age><caps>41</caps><club>England Wigan Athletic</club></player>
+        <player><no>16</no><pos>FW</pos><pname>Rony Martínez</pname><age>16 October 1988 (aged 25)</age><caps>12</caps><club>Honduras Real Sociedad</club></player>
+        <player><no>17</no><pos>MF</pos><pname>arvin Chávez</pname><age>3 November 1983 (aged 30)</age><caps>41</caps><club>United States Chivas USA</club></player>
+        <player><no>18</no><pos>GK</pos><pname>Noel Valladares (c)</pname><age>3 May 1977 (aged 37)</age><caps>121</caps><club>Honduras Olimpia</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Luis Garrido</pname><age>5 November 1990 (aged 23)</age><caps>19</caps><club>Honduras Olimpia</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Jorge Claros</pname><age>8 January 1986 (aged 28)</age><caps>48</caps><club>Honduras Motagua</club></player>
+        <player><no>21</no><pos>MF</pos><pname>Andy Najar</pname><age>16 March 1993 (aged 21)</age><caps>16</caps><club>Belgium Anderlecht</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Donis Escober</pname><age>3 February 1980 (aged 34)</age><caps>26</caps><club>?Honduras Olimpia</club></player>
+        <player><no>23</no><pos>DF</pos><pname>Brayan Beckeles</pname><age>28 November 1985 (aged 28)</age><caps>22</caps><club>Honduras Olimpia</club></player>
+                
+   </players> 
+  </team>
+  
+  <team>
+    <id>ARG</id>
+    <name>Argentina</name>
+    <coach>Alejandro Sabella</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Sergio Romero</pname><age>22 February 1987 (aged 27)</age><caps>45</caps><club>France AS Monaco</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Ezequiel Garay</pname><age>10 October 1986 (aged 27)</age><caps>18</caps><club>Portugal Benfica</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Hugo Campagnaro</pname><age>27 June 1980 (aged 33)</age><caps>13</caps><club>Italy Internazionale</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Pablo Zabaleta</pname><age>16 January 1985 (aged 29)</age><caps>36</caps><club>England Manchester City</club></player>
+        <player><no>5</no><pos>MF</pos><pname>Fernando Gago</pname><age>10 April 1986 (aged 28)</age><caps>47</caps><club>Argentina Boca Juniors</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Lucas Biglia</pname><age>30 January 1986 (aged 28)</age><caps>16</caps><club>Italy Lazio</club></player>
+        <player><no>7</no><pos>MF</pos><pname>�?ngel di María</pname><age>14 February 1988 (aged 26)</age><caps>45</caps><club>Spain Real Madrid</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Enzo Pérez</pname><age>22 February 1986 (aged 28)</age><caps>5</caps><club>Portugal Benfica</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Gonzalo Higuaín</pname><age>10 December 1987 (aged 26)</age><caps>36</caps><club>Italy Napoli</club></player>
+        <player><no>10</no><pos>FW</pos><pname>Lionel Messi (c) </pname><age>24 June 1987 (aged 26)</age><caps>84</caps><club>Spain Barcelona</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Maxi Rodríguez</pname><age>2 January 1981 (aged 33)</age><caps>53</caps><club>Argentina Newell's Old Boys</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Agustín Orión</pname><age>26 July 1981 (aged 32)</age><caps>3</caps><club>Argentina Boca Juniors</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Augusto Fernández</pname><age>10 April 1986 (aged 28)</age><caps>7</caps><club>Spain Celta Vigo</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Javier Mascherano</pname><age>8 June 1984 (aged 30)</age><caps>96</caps><club>Spain Barcelona</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Martín Demichelis</pname><age>20 December 1980 (aged 33)</age><caps>37</caps><club>England Manchester City</club></player>
+        <player><no>16</no><pos>DF</pos><pname>Marcos Rojo</pname><age>20 March 1990 (aged 24)</age><caps>20</caps><club>Portugal Sporting</club></player>
+        <player><no>17</no><pos>DF</pos><pname>Federico Fernández</pname><age>21 February 1989 (aged 25)</age><caps>24</caps><club>Italy Napoli</club></player>
+        <player><no>18</no><pos>FW</pos><pname>Rodrigo Palacio</pname><age>5 February 1982 (aged 32)</age><caps>15</caps><club>Italy Napoli</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Ricardo �?lvarez</pname><age>12 April 1988 (aged 26)</age><caps>5</caps><club>Italy Internazionale</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Sergio Agüero</pname><age>2 June 1988 (aged 26)</age><caps>50</caps><club>England Manchester City</club></player>
+        <player><no>21</no><pos>GK</pos><pname>Mariano Andújar</pname><age>30 July 1983 (aged 30)</age><caps>10</caps><club>Italy Catania</club></player>
+        <player><no>22</no><pos>FW</pos><pname>Ezequiel Lavezzi</pname><age>3 May 1985 (aged 29)</age><caps>29</caps><club>France Paris Saint-Germain</club></player>
+        <player><no>23</no><pos>DF</pos><pname>José María Basanta</pname><age>3 April 1984 (aged 30)</age><caps>8</caps><club>Mexico Monterrey</club></player>
+                
+   </players> 
+  </team>
+  
+  <team>
+    <id>BIH</id>
+    <name>Bosnia and Herzegovina</name>
+    <coach>Safet Sušic</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Asmir Begovic</pname><age>20 June 1987 (aged 26)</age><caps>30</caps><club>England Stoke City</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Avdija Vršajevic</pname><age>6 March 1986 (aged 28)</age><caps>13</caps><club>Croatia Hajduk Split</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Ermin Bicakcic</pname><age>24 January 1990 (aged 24)</age><caps>7</caps><club>Germany Eintracht Braunschweig</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Emir Spahic (c)</pname><age>18 August 1980 (aged 33)</age><caps>74</caps><club>Germany Bayer Leverkusen</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Sead Kolašinac</pname><age>20 June 1993 (aged 20)</age><caps>4</caps><club>Germany Schalke 04</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Ognjen Vranješ</pname><age>24 October 1989 (aged 24)</age><caps>13</caps><club>Turkey Elazigspor</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Muhamed Bešic</pname><age>10 September 1992 (aged 21)</age><caps>9</caps><club>Hungary Ferencváros</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Miralem Pjanic</pname><age>2 April 1990 (aged 24)</age><caps>48</caps><club>Italy Roma</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Vedad Ibiševic</pname><age>6 August 1984 (aged 29)</age><caps>55</caps><club>Germany VfB Stuttgart</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Zvjezdan Misimovic</pname><age>5 June 1982 (aged 32)</age><caps>82</caps><club>China Guizhou Renhe</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Edin Džeko</pname><age>17 March 1986 (aged 28)</age><caps>62</caps><club>England Manchester City</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Jasmin Fejzic</pname><age>15 May 1986 (aged 28)</age><caps>0</caps><club>Germany VfR Aalen</club></player>
+        <player><no>13</no><pos>DF</pos><pname>Mensur Mujdža</pname><age>28 March 1984 (aged 30)</age><caps>24</caps><club>Germany SC Freiburg</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Izet Hajrovic</pname><age>4 August 1991 (aged 22)</age><caps>7</caps><club>Turkey Galatasaray</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Toni Šunjic</pname><age>15 December 1988 (aged 25)</age><caps>7</caps><club>Ukraine Zorya Luhansk</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Senad Lulic</pname><age>18 January 1986 (aged 28)</age><caps>33</caps>Italy Lazio<club></club></player>
+        <player><no>17</no><pos>MF</pos><pname>Senijad Ibricic</pname><age>26 September 1985 (aged 28)</age><caps>42</caps><club>Turkey Kayseri Erciyesspor</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Haris Medunjanin</pname><age>8 March 1985 (aged 29</age><caps>35</caps><club>Turkey Gaziantepspor</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Edin Višca</pname><age>17 February 1990 (aged 24)</age><caps>10</caps><club>Turkey Istanbul BB</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Anel Hadžic</pname><age>16 August 1989 (aged 24)</age><caps>2</caps><club>Austria Sturm Graz</club></player>
+        <player><no>21</no><pos>MF</pos><pname>Tino-Sven Sušic</pname><age>13 February 1992 (aged 22)</age><caps>2</caps><club>Croatia Hajduk Split</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Asmir Avdukic</pname><age>13 May 1981 (aged 33)</age><caps>3</caps><club>Bosnia and Herzegovina Borac Banja Luka</club></player>
+        <player><no>23</no><pos>MF</pos><pname>Sejad Salihovic</pname><age>8 October 1984 (aged 29)</age><caps>42</caps><club>Germany 1899 Hoffenheim</club></player>
+
+   </players> 
+  </team>
+  
+  <team>
+    <id>IRN</id>
+    <name>Iran</name>
+    <coach>Carlos Queiroz</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Rahman Ahmadi</pname><age>30 July 1980 (aged 33)</age><caps>10</caps><club>Iran Sepahan</club></player>
+        <player><no>2</no><pos>MF</pos><pname>Khosro Heydari</pname><age>14 September 1983 (aged 30)</age><caps>48</caps><club>Iran Esteghlal</club></player>
+        <player><no>3</no><pos>MF</pos><pname>Ehsan Hajsafi</pname><age>25 February 1990 (aged 24)</age><caps>61</caps><club>Iran Sepahan</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Jalal Hosseini</pname><age>3 February 1982 (aged 32)</age><caps>84</caps><club>Iran Persepolis</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Amir Hossein Sadeghi</pname><age>6 September 1981 (aged 32)</age><caps>16</caps><club>Iran Esteghlal</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Javad Nekounam (c)</pname><age>7 October 1980 (aged 33)</age><caps>139</caps><club>Kuwait Al-Kuwait</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Masoud Shojaei</pname><age>9 June 1984 (aged 30)</age><caps>49</caps><club>Spain Las Palmas</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Reza Haghighi</pname><age>1 February 1989 (aged 25)</age><caps>7</caps><club>Iran Persepolis</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Alireza Jahanbakhsh</pname><age>11 August 1993 (aged 20)</age><caps>6</caps><club>Netherlands NEC</club></player>
+        <player><no>10</no><pos>FW</pos><pname>Karim Ansarifard</pname><age>3 April 1990 (aged 24)</age><caps>41</caps><club>Iran Tractor Sazi</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Ghasem Haddadifar</pname><age>12 July 1983 (aged 30)</age><caps>16</caps><club>Iran Zob Ahan</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Alireza Haghighi</pname><age>2 May 1988 (aged 26)</age><caps>5</caps><club>Portugal Sporting Covilhã</club></player>
+        <player><no>13</no><pos>DF</pos><pname>Hossein Mahini</pname><age>16 September 1986 (aged 27)</age><caps>21</caps><club>Iran Persepolis</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Andranik Teymourian</pname><age>6 March 1983 (aged 31)</age><caps>78</caps><club>Iran Esteghlal</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Pejman Montazeri</pname><age>6 September 1983 (aged 30)</age><caps>21</caps><club>Qatar Umm Salal</club></player>
+        <player><no>16</no><pos>FW</pos><pname>Reza Ghoochannejhad</pname><age>20 September 1987 (aged 26)</age><caps>13</caps><club>England Charlton Athletic</club></player>
+        <player><no>17</no><pos>DF</pos><pname>Ahmad Alenemeh</pname><age>10 October 1982 (aged 31)</age><caps>9</caps><club>Iran Naft Tehran</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Bakhtiar Rahmani</pname><age>23 September 1991 (aged 22)</age><caps>4</caps><club>Iran Foolad</club></player>
+        <player><no>19</no><pos>DF</pos><pname>Hashem Beikzadeh</pname><age>22 January 1984 (aged 30)</age><caps>17</caps><club>Iran Esteghlal</club></player>
+        <player><no>20</no><pos>DF</pos><pname>Steven Beitashour</pname><age>1 February 1987 (aged 27)</age><caps>6</caps><club>Canada Vancouver Whitecaps</club></player>
+        <player><no>21</no><pos>MF</pos><pname>Ashkan Dejagah</pname><age>5 July 1986 (aged 27)</age><caps>13</caps><club>England Fulham</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Daniel Davari</pname><age>6 January 1988 (aged 26)</age><caps>4</caps><club>Germany Eintracht Braunschweig</club></player>
+        <player><no>23</no><pos>DF</pos><pname>Mehrdad Pouladi</pname><age>26 February 1987 (aged 27)</age><caps>19</caps><club>Iran Persepolis</club></player>
+        
+   </players>   
+  </team>
+  
+  <team>
+    <id>NGA</id>
+    <name>Nigeria</name>
+    <coach>Stephen Keshi</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Vincent Enyeama (c)</pname><age>29 August 1982 (aged 31)</age><caps>90</caps><club>France Lille</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Joseph Yobo</pname><age>6 September 1980 (aged 33)</age><caps>96</caps><club>England Norwich City</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Uwa Elderson Echiéjilé</pname><age>20 January 1988 (aged 26)</age><caps>42</caps><club>France AS Monaco</club></player>
+        <player><no>4</no><pos>MF</pos><pname>Reuben Gabriel</pname><age>25 September 1990 (aged 23)</age><caps>11</caps><club>Belgium Waasland-Beveren</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Efe Ambrose</pname><age>18 October 1988 (aged 25)</age><caps>36</caps><club>Scotland Celtic</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Azubuike Egwuekwe</pname><age>16 July 1989 (aged 24)</age><caps>32</caps><club>Nigeria Warri Wolves</club></player>
+        <player><no>7</no><pos>FW</pos><pname>Ahmed Musa</pname><age>14 October 1992 (aged 21)</age><caps>53</caps><club>Russia CSKA Moscow</club></player>
+        <player><no>8</no><pos>FW</pos><pname>Peter Odemwingie</pname><age>15 July 1981 (aged 32)</age><caps>60</caps><club>England Stoke City</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Emmanuel Emenike</pname><age>10 May 1987 (aged 27)</age><caps>22</caps><club>Turkey Fenerbahçe</club></player>
+        <player><no>10</no><pos>MF</pos><pname>John Obi Mikel</pname><age>22 April 1987 (aged 27)</age><caps>59</caps><club>England Chelsea</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Victor Moses</pname><age>12 December 1990 (aged 23)</age><caps>20</caps><club>England Liverpool</club></player>
+        <player><no>12</no><pos>DF</pos><pname>Kunle Odunlami</pname><age>Kunle Odunlami</age><caps>10</caps><club>Israel Ashdod</club></player>
+        <player><no>13</no><pos>DF</pos><pname>Juwon Oshaniwa</pname><age>14 September 1990 (aged 23)</age><caps>10</caps><club>Israel Ashdod</club></player>
+        <player><no>14</no><pos>DF</pos><pname>Godfrey Oboabona</pname><age>16 August 1990 (aged 23)</age><caps>35</caps><club>Turkey Çaykur Rizespor</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Ramon Azeez</pname><age>12 December 1992 (aged 21)</age><caps>1</caps><club>Spain Almería</club></player>
+        <player><no>16</no><pos>GK</pos><pname>Austin Ejide</pname><age>8 April 1984 (aged 30)</age><caps>32</caps><club>Israel Hapoel Be'er Sheva</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Ogenyi Onazi</pname><age>25 December 1992 (aged 21)</age><caps>20</caps><club>Italy Lazio</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Michael Babatunde</pname><age>24 December 1992 (aged 21)</age><caps>4</caps><club>Ukraine Volyn Lutsk</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Uche Nwofor</pname><age>17 September 1991 (aged 22)</age><caps>6</caps><club>Netherlands Heerenveen</club></player>
+        <player><no>20</no><pos>FW</pos><pname>Michael Uchebo</pname><age>2 February 1990 (aged 24)</age><caps>3</caps><club>Belgium Cercle Brugge</club></player>
+        <player><no>21</no><pos>GK</pos><pname>Chigozie Agbim</pname><age>28 November 1984 (aged 29)</age><caps>11</caps><club>Nigeria Gombe United</club></player>
+        <player><no>22</no><pos>DF</pos><pname>Kenneth Omeruo</pname><age>17 October 1993 (aged 20)</age><caps>17</caps><club>England Middlesbrough</club></player>
+        <player><no>23</no><pos>FW</pos><pname>Shola Ameobi</pname><age>12 October 1981 (aged 32)</age><caps>6</caps><club>England Newcastle United</club></player>
+
+   </players> 
+  </team>
+  
+  <team>
+        <id>GER</id>
+    <name>Germany</name>
+    <coach> Joachim Löw</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Manuel Neuer</pname><age>27 March 1986 (aged 28)</age><caps>45</caps><club>Germany Bayern Munich</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Kevin Großkreutz</pname><age>19 July 1988 (aged 25)</age><caps>4</caps><club>Germany Borussia Dortmund</club></player>
+        <player><no>3</no><pos>MF</pos><pname>Matthias Ginter</pname><age>19 January 1994 (aged 20)</age><caps>2</caps><club>Germany SC Freiburg</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Benedikt Höwedes</pname><age>29 February 1988 (aged 26)</age><caps>20</caps><club>Germany Schalke 04</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Mats Hummels</pname><age>16 December 1988 (aged 25)</age><caps>29</caps><club>Germany Borussia Dortmund</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Sami Khedira</pname><age>4 April 1987 (aged 27)</age><caps>45</caps><club>Spain Real Madrid</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Bastian Schweinsteiger</pname><age>1 August 1984 (aged 29)</age><caps>101</caps><club>Germany Bayern Munich</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Mesut Özil</pname><age>15 October 1988 (aged 25</age><caps>54</caps><club>England Arsenal</club></player>
+        <player><no>9</no><pos>MF</pos><pname>André Schürrle</pname><age>6 November 1990 (aged 23)</age><caps>32</caps><club>England Chelsea</club></player>
+        <player><no>10</no><pos>FW</pos><pname>England Chelsea</pname><age>4 June 1985 (aged 29)</age><caps>113</caps><club>England Arsenal</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Miroslav Klose</pname><age>9 June 1978 (aged 36)</age><caps>131</caps><club>Italy Lazio</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Ron-Robert Zieler</pname><age>12 February 1989 (aged 25)</age><caps>3</caps><club>Germany Hannover 96</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Thomas Müller</pname><age>13 September 1989 (aged 24)</age><caps>48</caps><club>Germany Bayern Munich</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Julian Draxler</pname><age>20 September 1993 (aged 20)</age><caps>11</caps><club>Germany Schalke 04</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Erik Durm</pname><age>12 May 1992 (aged 22)</age><caps>1</caps><club>Germany Borussia Dortmund</club></player>
+        <player><no>16</no><pos>DF</pos><pname>Philipp Lahm (c)</pname><age>11 November 1983 (aged 30)</age><caps>105</caps><club>Germany Bayern Munich</club></player>
+        <player><no>17</no><pos>DF</pos><pname>Per Mertesacker</pname><age>29 September 1984 (aged 29)</age><caps>97</caps><club>England Arsenal</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Toni Kroos</pname><age>4 January 1990 (aged 24)</age><caps>43</caps><club>Germany Bayern Munich</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Mario Götze</pname><age>3 June 1992 (aged 22)</age><caps>28</caps><club>Germany Bayern Munich</club></player>
+        <player><no>20</no><pos>DF</pos><pname>Jérôme Boateng</pname><age>3 September 1988 (aged 25)</age><caps>38</caps><club>Germany Bayern Munich</club></player>
+        <player><no>21</no><pos>MF</pos><pname>Marco Reus</pname><age>31 May 1989 (aged 25)</age><caps>20</caps><club>Germany Borussia Dortmund</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Roman Weidenfeller</pname><age>6 August 1980 (aged 33)</age><caps>2</caps><club>Germany Borussia Dortmund</club></player>
+        <player><no>23</no><pos>MF</pos><pname>Christoph Kramer</pname><age>12 February 1991 (aged 23)</age><caps>2</caps><club>Germany Borussia Mönchengladbach</club></player>
+        
+   </players> 
+  </team>
+  
+  <team>
+        <id>PRT</id>
+    <name>Portugal</name>
+    <coach>Paulo Bento</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Eduardo</pname><age>19 September 1982 (aged 31)</age><caps>33</caps><club>Portugal Braga</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Bruno Alves</pname><age>27 November 1981 (aged 32)</age><caps>71</caps><club>Turkey Fenerbahçe</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Pepe</pname><age>26 February 1983 (aged 31)</age><caps>57</caps><club>Spain Real Madrid</club></player>
+        <player><no>4</no><pos>MF</pos><pname>Miguel Veloso</pname><age>11 May 1986 (aged 28)</age><caps>47</caps><club>Ukraine Dynamo Kyiv</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Fábio Coentrão</pname><age>11 March 1988 (aged 26)</age><caps>43</caps><club>Spain Real Madrid</club></player>
+        <player><no>6</no><pos>MF</pos><pname>William Carvalho</pname><age>7 April 1992 (aged 22)</age><caps>3</caps><club>Portugal Sporting</club></player>
+        <player><no>7</no><pos>FW</pos><pname>Cristiano Ronaldo (c)</pname><age>5 February 1985 (aged 29)</age><caps>110</caps><club>Spain Real Madrid</club></player>
+        <player><no>8</no><pos>MF</pos><pname>João Moutinho</pname><age>8 September 1986 (aged 27)</age><caps>66</caps><club>France AS Monaco</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Hugo Almeida</pname><age>23 May 1984 (aged 30)</age><caps>54</caps><club>Turkey Besiktas</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Vieirinha</pname><age>24 January 1986 (aged 28)</age><caps>7</caps><club>Germany VfL Wolfsburg</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Éder</pname><age>22 December 1987 (aged 26)</age><caps>7</caps><club>Portugal Braga</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Rui Patrício</pname><age>15 February 1988 (aged 26)</age><caps>29</caps><club>Portugal Sporting</club></player>
+        <player><no>13</no><pos>DF</pos><pname>Ricardo Costa</pname><age>15 February 1988 (aged 26)</age><caps>18</caps><club>Spain Valencia</club></player>
+        <player><no>14</no><pos>DF</pos><pname>Luís Neto</pname><age>26 May 1988 (aged 26)</age><caps>7</caps><club>Russia Zenit Saint Petersburg</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Rafa Silva</pname><age>17 May 1993 (aged 21)</age><caps>3</caps><club>Portugal Braga</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Raul Meireles</pname><age>17 March 1983 (aged 31)</age><caps>73</caps><club>Turkey Fenerbahçe</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Nani</pname><age>17 November 1986 (aged 27)</age><caps>73</caps><club>England Manchester United</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Silvestre Varela</pname><age>2 February 1985 (aged 29)</age><caps>22</caps><club>Portugal Porto</club></player>
+        <player><no>19</no><pos>DF</pos><pname>André Almeida</pname><age>10 September 1990 (aged 23)</age><caps>3</caps><club>Portugal Benfica</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Rúben Amorim</pname><age>27 January 1985 (aged 29)</age><caps>11</caps><club>Portugal Benfica</club></player>
+        <player><no>21</no><pos>DF</pos><pname>João Pereira</pname><age>25 February 1984 (aged 30)</age><caps>35</caps><club>Spain Valencia</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Beto</pname><age>1 May 1982 (aged 32)</age><caps>7</caps><club>Spain Sevilla</club></player>
+        <player><no>23</no><pos>FW</pos><pname>Hélder Postiga</pname><age>2 August 1982 (aged 31)</age><caps>67</caps><club>Italy Lazio</club></player>
+        
+   </players> 
+  </team>
+  
+  <team>
+        <id>GHA</id>
+    <name>Ghana</name>
+    <coach>James Kwesi Appiah</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Steven Adams</pname><age>28 September 1989 (aged 24)</age><caps>7</caps><club>Ghana Aduana Stars</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Samuel Inkoom</pname><age>1 June 1989 (aged 25)</age><caps>46</caps><club>Greece Platanias</club></player>
+        <player><no>3</no><pos>FW</pos><pname>Asamoah Gyan (c)</pname><age>22 November 1985 (aged 28)</age><caps>78</caps><club>United Arab Emirates Al-Ain</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Daniel Opare</pname><age>18 October 1990 (aged 23)</age><caps>16</caps><club>Belgium Standard Liège</club></player>
+        <player><no>5</no><pos>MF</pos><pname>Michael Essien</pname><age>3 December 1982 (aged 31)</age><caps>57</caps><club>Italy Milan</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Afriyie Acquah</pname><age>5 January 1992 (aged 22)</age><caps>4</caps><club>Italy Parma</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Christian Atsu</pname><age>10 January 1992 (aged 22)</age><caps>22</caps><club>Netherlands Vitesse</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Emmanuel Agyemang-Badu</pname><age>2 December 1990 (aged 23)</age><caps>48</caps><club>Italy Udinese</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Kevin-Prince Boateng</pname><age>6 March 1987 (aged 27)</age><caps>12</caps><club>Germany Schalke 04</club></player>
+        <player><no>10</no><pos>MF</pos><pname>André Ayew</pname><age>17 December 1989 (aged 24)</age><caps>48</caps><club>France Marseille</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Sulley Muntari</pname><age>27 August 1984 (aged 29)</age><caps>81</caps><club>Italy Milan</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Adam Kwarasey</pname><age>12 December 1987 (aged 26)</age><caps>21</caps><club>Norway Strømsgodset</club></player>
+        <player><no>13</no><pos>FW</pos><pname>Jordan Ayew</pname><age>11 September 1991 (aged 22)</age><caps>12</caps><club>France Sochaux</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Albert Adomah</pname><age>13 December 1987 (aged 26)</age><caps>14</caps><club>England Middlesbrough</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Rashid Sumaila</pname><age>18 December 1992 (aged 21)</age><caps>6</caps><club>South Africa Mamelodi Sundowns</club></player>
+        <player><no>16</no><pos>GK</pos><pname>Fatau Dauda</pname><age>6 April 1985 (aged 29)</age><caps>17</caps><club>South Africa Orlando Pirates</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Mohammed Rabiu</pname><age>31 December 1989 (aged 24)</age><caps>16</caps><club>Russia Kuban Krasnodar</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Majeed Waris</pname><age>19 September 1991 (aged 22</age><caps>9</caps><club>France Valenciennes</club></player>
+        <player><no>19</no><pos>DF</pos><pname>Jonathan Mensah</pname><age>13 July 1990 (aged 23)</age><caps>26</caps><club>France Évian</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Kwadwo Asamoah</pname><age>9 December 1988 (aged 25)</age><caps>61</caps><club>Italy Juventus</club></player>
+        <player><no>21</no><pos>DF</pos><pname>John Boye</pname><age>23 April 1987 (aged 27)</age><caps>29</caps><club>France Rennes</club></player>
+        <player><no>22</no><pos>MF</pos><pname>Wakaso Mubarak</pname><age>25 July 1990 (aged 23)</age><caps>16</caps><club>Russia Rubin Kazan</club></player>
+        <player><no>23</no><pos>DF</pos><pname>Harrison Afful</pname><age>24 June 1986 (aged 27)</age><caps>40</caps><club>Tunisia Espérance</club></player>
+        
+   </players> 
+  </team>
+  
+  <team>
+        <id>USA</id>
+    <name>USA</name>
+    <coach>Jürgen Klinsmann</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Tim Howard</pname><age>6 March 1979 (aged 35)</age><caps>99</caps><club>England Everton</club></player>
+        <player><no>2</no><pos>DF</pos><pname>DeAndre Yedlin</pname><age>9 July 1993 (aged 20)</age><caps>4</caps><club>United States Seattle Sounders FC</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Omar Gonzalez</pname><age>11 October 1988 (aged 25)</age><caps>19</caps><club>United States Los Angeles Galaxy</club></player>
+        <player><no>4</no><pos>MF</pos><pname>Michael Bradley</pname><age>31 July 1987 (aged 26)</age><caps>85</caps><club>Canada Toronto FC</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Matt Besler</pname><age>11 February 1987 (aged 27)</age><caps>16</caps><club>United States Sporting Kansas City</club></player>
+        <player><no>6</no><pos>DF</pos><pname>John Brooks</pname><age>28 January 1993 (aged 21)</age><caps>4</caps><club>Germany Hertha BSC</club></player>
+        <player><no>7</no><pos>DF</pos><pname>DaMarcus Beasley</pname><age>24 May 1982 (aged 32)</age><caps>115</caps><club>Mexico Puebla</club></player>
+        <player><no>8</no><pos>FW</pos><pname>Clint Dempsey (c)</pname><age>9 March 1983 (aged 31)</age><caps>104</caps><club>United States Seattle Sounders FC</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Aron Jóhannsson</pname><age>10 November 1990 (aged 23)</age><caps>8</caps><club>Netherlands AZ</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Mikkel Diskerud</pname><age>2 October 1990 (aged 23)</age><caps>19</caps><club>Norway Rosenborg</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Alejandro Bedoya</pname><age>29 April 1987 (aged 27)</age><caps>27</caps><club>France Nantes</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Brad Guzan</pname><age>9 September 1984 (aged 29)</age><caps>25</caps><club>England Aston Villa</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Jermaine Jones</pname><age>3 November 1981 (aged 32)</age><caps>41</caps><club>Turkey Besiktas</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Brad Davis</pname><age>8 November 1981 (aged 32)</age><caps>16</caps><club>United States Houston Dynamo</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Kyle Beckerman</pname><age>23 April 1982 (aged 32)</age><caps>36</caps><club>United States Real Salt Lake</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Julian Green</pname><age>6 June 1995 (aged 19)</age><caps>2</caps><club>Germany Bayern Munich</club></player>
+        <player><no>17</no><pos>FW</pos><pname>Jozy Altidore</pname><age>6 November 1989 (aged 24)</age><caps>69</caps><club>England Sunderland</club></player>
+        <player><no>18</no><pos>FW</pos><pname>Chris Wondolowski</pname><age>28 January 1983 (aged 31)</age><caps>20</caps><club>United States San Jose Earthquakes</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Graham Zusi</pname><age>18 August 1986 (aged 27)</age><caps>22</caps><club>United States Sporting Kansas City</club></player>
+        <player><no>20</no><pos>DF</pos><pname>Geoff Cameron</pname><age>11 July 1985 (aged 28)</age><caps>26</caps><club>England Stoke City</club></player>
+        <player><no>21</no><pos>DF</pos><pname>Timothy Chandler</pname><age>29 March 1990 (aged 24)</age><caps>12</caps><club>Germany 1. FC Nürnberg</club></player>
+        <player><no>22</no><pos>GK</pos><pname>Nick Rimando</pname><age>17 June 1979 (aged 34)</age><caps>14</caps><club>United States Real Salt Lake</club></player>
+        <player><no>23</no><pos>DF</pos><pname>Fabian Johnson</pname><age>11 December 1987 (aged 26)</age><caps>21</caps><club>Germany 1899 Hoffenheim</club></player>
+        
+   </players> 
+  </team>
+  
+  <team>
+        <id>BEL</id>
+    <name>Belgium</name>
+    <coach>Marc Wilmots</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Thibaut Courtois</pname><age>11 May 1992 (aged 22)</age><caps>17</caps><club>Spain Atlético Madrid</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Toby Alderweireld</pname><age>2 March 1989 (aged 25)</age><caps>34</caps><club>Spain Atlético Madrid</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Thomas Vermaelen</pname><age>14 November 1985 (aged 28)</age><caps>47</caps><club>England Arsenal</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Vincent Kompany (c)</pname><age>10 April 1986 (aged 28)</age><caps>59</caps><club>England Manchester City</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Jan Vertonghen</pname><age>24 April 1987 (aged 27)</age><caps>56</caps><club>England Tottenham Hotspur</club></player>
+        <player><no>6</no><pos>MF</pos><pname>Axel Witsel</pname><age>12 January 1989 (aged 25)</age><caps>48</caps><club>Russia Zenit Saint Petersburg</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Kevin De Bruyne</pname><age>28 June 1991 (aged 22)</age><caps>21</caps><club>Germany VfL Wolfsburg</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Marouane Fellaini</pname><age>22 November 1987 (aged 26)</age><caps>50</caps><club>England Manchester United</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Romelu Lukaku</pname><age>13 May 1993 (aged 21)</age><caps>29</caps><club>England Everton</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Eden Hazard</pname><age>7 January 1991 (aged 23)</age><caps>45</caps><club>England Chelsea</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Kevin Mirallas</pname><age>5 October 1987 (aged 26)</age><caps>44</caps><club>England Everton</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Simon Mignolet</pname><age>6 August 1988 (age 25)</age><caps>14</caps><club>England Liverpool</club></player>
+        <player><no>13</no><pos>GK</pos><pname>Sammy Bossut</pname><age>11 August 1985 (age 28)</age><caps>0</caps><club>Belgium Zulte Waregem</club></player>
+        <player><no>14</no><pos>FW</pos><pname>Dries Mertens</pname><age>6 May 1987 (aged 27)</age><caps>25</caps><club>Italy Napoli</club></player>
+        <player><no>15</no><pos>DF</pos><pname>Daniel Van Buyten</pname><age>7 February 1978 (aged 36)</age><caps>79</caps><club>Germany Bayern Munich</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Steven Defour</pname><age>15 April 1988 (aged 26)</age><caps>43</caps><club>Portugal Porto</club></player>
+        <player><no>17</no><pos>FW</pos><pname>Divock Origi</pname><age>18 April 1995 (aged 19)</age><caps>2</caps><club>France Lille</club></player>
+        <player><no>18</no><pos>DF</pos><pname>Nicolas Lombaerts</pname><age>20 March 1985 (aged 29)</age><caps>25</caps><club>Russia Zenit Saint Petersburg</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Mousa Dembélé</pname><age>16 July 1987 (aged 26)</age><caps>57</caps><club>England Tottenham Hotspur</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Adnan Januzaj</pname><age>5 February 1995 (aged 19)</age><caps>1</caps><club>England Manchester United</club></player>
+        <player><no>21</no><pos>DF</pos><pname>Anthony Vanden Borre</pname><age>24 October 1987 (aged 26)</age><caps>25</caps><club>Belgium Anderlecht</club></player>
+        <player><no>22</no><pos>MF</pos><pname>Nacer Chadli</pname><age>2 October 1989 (aged 24)</age><caps>20</caps><club>England Tottenham Hotspur</club></player>
+        <player><no>23</no><pos>DF</pos><pname>Laurent Ciman</pname><age>5 August 1985 (aged 28)</age><caps>8</caps><club>Belgium Standard Liège</club></player>
+        
+   </players> 
+  </team>
+  
+  <team>
+        <id>DZA</id>
+    <name>Algeria</name>
+    <coach>Vahid Halilhodžic</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Cédric Si Mohamed</pname><age>9 January 1985 (aged 29)</age><caps>1</caps><club>Algeria CS Constantine</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Madjid Bougherra (c)</pname><age>7 October 1982 (aged 31)</age><caps>62</caps><club>Qatar Lekhwiya</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Faouzi Ghoulam</pname><age>1 February 1991 (aged 23)</age><caps>6</caps><club>Italy Napoli</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Essaïd Belkalem</pname><age>1 January 1989 (aged 25)</age><caps>13</caps><club>England Watford</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Rafik Halliche</pname><age>2 September 1986 (aged 27)</age><caps>29</caps><club>Portugal Académica</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Djamel Mesbah</pname><age>9 October 1984 (aged 29)</age><caps>26</caps><club>Italy Livorno</club></player>
+        <player><no>7</no><pos>DF</pos><pname>Carl Medjani</pname><age>15 May 1985 (aged 29)</age><caps>25</caps><club>France Valenciennes</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Hassan Yebda</pname><age>14 May 1984 (aged 30)</age><caps>25</caps><club>Italy Udinese</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Nabil Ghilas</pname><age>20 April 1990 (aged 24)</age><caps>5</caps><club>Portugal Porto</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Sofiane Feghouli</pname><age>26 December 1989 (aged 24)</age><caps>19</caps><club>Spain Valencia</club></player>
+        <player><no>11</no><pos>MF</pos><pname>Yacine Brahimi</pname><age>8 February 1990 (aged 24)</age><caps>6</caps><club>Spain Granada</club></player>
+        <player><no>12</no><pos>MF</pos><pname>Medhi Lacen</pname><age>15 May 1984 (aged 30)</age><caps>30</caps><club>Spain Getafe</club></player>
+        <player><no>13</no><pos>FW</pos><pname>Islam Slimani</pname><age>18 June 1988 (aged 25)</age><caps>20</caps><club>Portugal Sporting CP</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Nabil Bentaleb</pname><age>24 November 1994 (aged 19)</age><caps>3</caps><club>England Tottenham Hotspur</club></player>
+        <player><no>15</no><pos>FW</pos><pname>El Arbi Hillel Soudani</pname><age>25 November 1987 (aged 26)</age><caps>22</caps><club>Croatia Dinamo Zagreb</club></player>
+        <player><no>16</no><pos>GK</pos><pname>Mohamed Zemmamouche</pname><age>19 March 1985 (aged 29)</age><caps>7</caps><club>Algeria USM Alger</club></player>
+        <player><no>17</no><pos>DF</pos><pname>Liassine Cadamuro-Bentaïba</pname><age>5 March 1988 (aged 26)</age><caps>7</caps><club>Spain Mallorca</club></player>
+        <player><no>18</no><pos>MF</pos><pname>Abdelmoumene Djabou</pname><age>31 January 1987 (aged 27)</age><caps>8</caps><club>Tunisia Club Africain</club></player>
+        <player><no>19</no><pos>MF</pos><pname>Saphir Taïder</pname><age>29 February 1992 (aged 22)</age><caps>11</caps><club>Italy Internazionale</club></player>
+        <player><no>20</no><pos>DF</pos><pname>Aïssa Mandi</pname><age>22 October 1991 (aged 22)</age><caps>2</caps><club>France Reims</club></player>
+        <player><no>21</no><pos>MF</pos><pname>Riyad Mahrez</pname><age>21 February 1991 (aged 23)</age><caps>2</caps><club>England Leicester City</club></player>
+        <player><no>22</no><pos>MF</pos><pname>Mehdi Mostefa</pname><age>30 August 1983 (aged 30)</age><caps>23</caps><club>France Ajaccio</club></player>
+        <player><no>23</no><pos>GK</pos><pname>Raïs M'Bolhi</pname><age>25 April 1986 (aged 28)</age><caps>28</caps><club>Bulgaria CSKA Sofia</club></player>
+
+    </players> 
+  </team>
+  
+  <team>
+        <id>RUS</id>
+    <name>Russia</name>
+    <coach>Fabio Capello</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Igor Akinfeev</pname><age>8 April 1986 (aged 28)</age><caps>68</caps><club>Russia CSKA Moscow</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Aleksei Kozlov</pname><age>16 November 1986 (aged 27)</age><caps>11</caps><club>Russia Dynamo Moscow</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Georgi Shchennikov</pname><age>27 April 1991 (aged 23)</age><caps>4</caps><club>Russia CSKA Moscow</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Sergei Ignashevich</pname><age>14 July 1979 (aged 34)</age><caps>96</caps><club>Russia CSKA Moscow</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Andrei Semyonov</pname><age>24 March 1989 (aged 25)</age><caps>1</caps><club>Russia Terek Grozny</club></player>
+        <player><no>6</no><pos>FW</pos><pname>Maksim Kanunnikov</pname><age>14 July 1991 (aged 22)</age><caps>2</caps><club>Russia Rubin Kazan</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Igor Denisov</pname><age>17 May 1984 (aged 30)</age><caps>43</caps><club>Russia Dynamo Moscow</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Denis Glushakov</pname><age>27 January 1987 (aged 27)</age><caps>26</caps><club>Russia Spartak Moscow</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Aleksandr Kokorin</pname><age>19 March 1991 (aged 23)</age><caps>21</caps><club>Russia Dynamo Moscow</club></player>
+        <player><no>10</no><pos>MF</pos><pname>Alan Dzagoev</pname><age>17 June 1990 (aged 23)</age><caps>32</caps><club>Russia CSKA Moscow</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Aleksandr Kerzhakov</pname><age>27 November 1982 (aged 31)</age><caps>80</caps><club>Russia Zenit Saint Petersburg</club></player>
+        <player><no>12</no><pos>GK</pos><pname>Yuri Lodygin</pname><age>26 May 1990 (aged 24)</age><caps>3</caps><club>Russia Zenit Saint Petersburg</club></player>
+        <player><no>13</no><pos>DF</pos><pname>Vladimir Granat</pname><age>22 May 1987 (aged 27)</age><caps>5</caps><club>Russia Dynamo Moscow</club></player>
+        <player><no>14</no><pos>DF</pos><pname>Vasili Berezutski (c)</pname><age>20 June 1982 (aged 31)</age><caps>78</caps><club>Russia CSKA Moscow</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Pavel Mogilevets</pname><age>25 January 1993 (aged 21)</age><caps>1</caps><club>Russia Rubin Kazan</club></player>
+        <player><no>16</no><pos>GK</pos><pname>Sergey Ryzhikov</pname><age>19 September 1980 (aged 33)</age><caps>1</caps><club>Russia Rubin Kazan</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Oleg Shatov</pname><age>29 July 1990 (aged 23)</age><caps>7</caps><club>Russia Zenit Saint Petersburg</club></player>
+        <player><no>18</no><pos>FW</pos><pname>Yuri Zhirkov</pname><age>20 August 1983 (aged 30)</age><caps>60</caps><club>Russia Dynamo Moscow</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Aleksandr Samedov</pname><age>19 July 1984 (aged 29)</age><caps>17</caps><club>Russia Lokomotiv Moscow</club></player>
+        <player><no>20</no><pos>MF</pos><pname>Viktor Fayzulin</pname><age>22 April 1986 (aged 28)</age><caps>19</caps><club>Russia Zenit Saint Petersburg</club></player>
+        <player><no>21</no><pos>FW</pos><pname>Aleksei Ionov</pname><age>18 February 1989 (aged 25)</age><caps>5</caps><club>Russia Dynamo Moscow</club></player>
+        <player><no>22</no><pos>DF</pos><pname>Andrey Yeshchenko</pname><age>9 February 1984 (aged 30)</age><caps>12</caps><club>Russia Anzhi Makhachkala</club></player>
+        <player><no>23</no><pos>DF</pos><pname>Dmitri Kombarov</pname><age>22 January 1987 (aged 27)</age><caps>22</caps><club>Russia Spartak Moscow</club></player>
+
+   </players> 
+  </team>
+  
+  <team>
+    <id>KOR</id>
+    <name>Korea Republic</name>
+    <coach>Hong Myung-bo</coach>
+    <players>
+        <player><no>1</no><pos>GK</pos><pname>Jung Sung-ryong</pname><age>4 January 1985 (aged 29)</age><caps>60</caps><club>South Korea Suwon Bluewings</club></player>
+        <player><no>2</no><pos>DF</pos><pname>Kim Chang-soo</pname><age>12 September 1985 (aged 28)</age><caps>8</caps><club>Japan Kashiwa Reysol</club></player>
+        <player><no>3</no><pos>DF</pos><pname>Yun Suk-young</pname><age>13 February 1990 (aged 24)</age><caps>3</caps><club>England Queens Park Rangers</club></player>
+        <player><no>4</no><pos>DF</pos><pname>Kwak Tae-hwi</pname><age>8 July 1981 (aged 32)</age><caps>34</caps><club>Saudi Arabia Al-Hilal</club></player>
+        <player><no>5</no><pos>DF</pos><pname>Kim Young-gwon</pname><age>27 February 1990 (aged 24)</age><caps>20</caps><club>China Guangzhou Evergrande</club></player>
+        <player><no>6</no><pos>DF</pos><pname>Hwang Seok-ho</pname><age>27 June 1989 (aged 24)</age><caps>3</caps><club>Japan Sanfrecce Hiroshima</club></player>
+        <player><no>7</no><pos>MF</pos><pname>Kim Bo-kyung</pname><age>6 October 1989 (aged 24)</age><caps>27</caps><club>Wales Cardiff City</club></player>
+        <player><no>8</no><pos>MF</pos><pname>Ha Dae-sung</pname><age>2 March 1985 (aged 29)</age><caps>13</caps><club>China Beijing Guoan</club></player>
+        <player><no>9</no><pos>FW</pos><pname>Son Heung-min</pname><age>8 July 1992 (aged 21</age><caps>24</caps><club>Germany Bayer Leverkusen</club></player>
+        <player><no>10</no><pos>FW</pos><pname>Park Chu-young</pname><age>10 July 1985 (aged 28)</age><caps>63</caps><club>England Watford</club></player>
+        <player><no>11</no><pos>FW</pos><pname>Lee Keun-ho</pname><age>11 April 1985 (aged 29)</age><caps>63</caps><club>South Korea Sangju Sangmu</club></player>
+        <player><no>12</no><pos>DF</pos><pname>Lee Yong</pname><age>24 December 1986 (aged 27)</age><caps>11</caps><club>South Korea Ulsan Hyundai</club></player>
+        <player><no>13</no><pos>MF</pos><pname>Koo Ja-cheol (c)</pname><age>27 February 1989 (aged 25)</age><caps>36</caps><club>Germany Mainz 05</club></player>
+        <player><no>14</no><pos>MF</pos><pname>Han Kook-young</pname><age>19 April 1990 (aged 24)</age><caps>9</caps><club>Japan Kashiwa Reysol</club></player>
+        <player><no>15</no><pos>MF</pos><pname>Park Jong-woo</pname><age>10 March 1989 (aged 25)</age><caps>10</caps><club>China Guangzhou RnF</club></player>
+        <player><no>16</no><pos>MF</pos><pname>Ki Sung-yueng</pname><age>24 January 1989 (aged 25)</age><caps>58</caps><club>England Sunderland</club></player>
+        <player><no>17</no><pos>MF</pos><pname>Lee Chung-yong</pname><age>2 July 1988 (aged 25)</age><caps>54</caps><club>England Bolton Wanderers</club></player>
+        <player><no>18</no><pos>FW</pos><pname>Kim Shin-wook</pname><age>14 April 1988 (aged 26)</age><caps>26</caps><club>South Korea Ulsan Hyundai</club></player>
+        <player><no>19</no><pos>FW</pos><pname>Ji Dong-won</pname><age>28 May 1991 (aged 23)</age><caps>27</caps><club>Germany FC Augsburg</club></player>
+        <player><no>20</no><pos>DF</pos><pname>Hong Jeong-ho</pname><age>12 August 1989 (aged 24)</age><caps>24</caps><club>Germany FC Augsbur</club></player>
+        <player><no>21</no><pos>GK</pos><pname>Kim Seung-gyu</pname><age>30 September 1990 (aged 23)</age><caps>5</caps><club>South Korea Ulsan Hyundai</club></player>
+        <player><no>22</no><pos>DF</pos><pname>Park Joo-ho</pname><age>16 January 1987 (aged 27)</age><caps>13</caps><club>Germany Mainz 05</club></player>
+        <player><no>23</no><pos>GK</pos><pname>Lee Bum-young</pname><age>2 April 1989 (aged 25)</age><caps>0</caps><club>South Korea Busan I'Park</club></player>
+        
+   </players> 
+  </team>
+<squads>

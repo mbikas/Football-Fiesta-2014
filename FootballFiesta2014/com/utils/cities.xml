@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cities>
+  <city>
+    <id>1</id>
+	<name>Belo Horizonte</name>
+	<stadium>Estadio Mineirao</stadium>
+	<imageName>city1.jpg</imageName>
+	<imageNameBig>city1_big.jpg</imageNameBig>
+	<clubs>
+		<club>Atletico Mineiro</club>
+		<club>Cruzeiro</club>
+	</clubs>
+	<history></history>
+	<weather>Down right pleasant nearly all year round. During the World Cup, it should range between 15C and 27C but it can get a chilly at night.</weather>
+  </city>
+  <city>
+  	<id>2</id>
+	<name>Brasília</name>
+	<stadium>Estádio Nacional Mané Garrincha</stadium>
+	<imageName>city2.jpg</imageName>
+	<imageNameBig>city2_big.jpg</imageNameBig>
+	<clubs>
+		<club>Sociedade Esportiva do Gama</club>
+    <club>Brasiliense Futebol Clube </club>
+	</clubs>
+	<history></history>
+	<weather>It will be middle of the dry season in this region and it does get very dry, with humidity dropping to a throat-scratching 20% some days. Winter in this central region of Brazil can be quite tricky for tourists: very hot during the day but chilly at night, when temperatures can drop below 15C.</weather>
+  </city>
+  <city>
+    <id>3</id>
+	<name>Cuiabá</name>
+    <stadium>Arena Pantanal</stadium>
+    <imageName>city3.jpg</imageName>
+	<imageNameBig>city3_big.jpg</imageNameBig>
+	<clubs>
+      <club>Cuiabá Esporte Clube</club>
+      <club>Mixto Esporte Clube</club>
+    </clubs>
+    <history></history>
+    <weather>The tournament falls in the non-rainy month, but it will be very hot during the day (with an average high of 31C in June) and cooler at night (occasionally as low as 10C) – but not cold enough to affect the nightlife.</weather>
+  </city>
+  <city>
+    <id>4</id>
+	<name>Curitiba</name>
+    <stadium>Arena da Baixada</stadium>
+    <imageName>city4.jpg</imageName>
+	<imageNameBig>city4_big.jpg</imageNameBig>
+	<clubs>
+      <club>Clube Atlético Paranaense</club>
+    </clubs>
+    <history></history>
+    <weather>it can be very cold in Curitiba in June, with average temperature of 8C to 18C. June is dry season, though, and the crisp cold days can be quite enjoyable.</weather>
+  </city>
+  <city>
+  	<id>5</id>
+	<name>Fortaleza</name>
+  	<stadium>Estádio Castelão</stadium>
+  	<imageName>city5.jpg</imageName>
+	<imageNameBig>city5_big.jpg</imageNameBig>
+	<clubs>
+  		<club>Ceará Sporting Club</club>
+  	</clubs>
+    <history></history>
+    <weather>Fortaleza is less than four degrees south of the equator and is almost always hot, though in June and July, the tail end of the rainy season, temperatures are eased by the strong wind, which draws surfers, windsurfers and kite-surfers to nearby beaches, such as Cumbuco and Praia do Futuro.</weather>
+  </city>
+  <city>
+    <id>6</id>
+	<name>Manaus</name>
+    <stadium>Arena Amazônia</stadium>
+    <imageName>city6.jpg</imageName>
+	<imageNameBig>city6_big.jpg</imageNameBig>
+	<clubs>
+      <club>América Futebol Clube</club>
+      <club>Nacional Futebol Clube</club>
+      <club>Atlético Rio Negro Clube.</club>
+    </clubs>
+    <history></history>
+    <weather>The temperature barely varies in Manaus, averaging 23-27C year round. It is hot and incredibly humid year-round, though the tournament falls outside the rainy season.</weather>
+  </city>
+  <city>
+    <id>7</id>
+	<name>Natal</name>
+    <stadium>Arena das Dunas</stadium>
+    <imageName>city7.jpg</imageName>
+	<imageNameBig>city7_big.jpg</imageNameBig>
+	<clubs>
+      <club>América Futebol Clube</club>
+      <club>ABC Futebol Clube</club>
+    </clubs>
+    <history></history>
+    <weather>Tropical climate - expect light rain from June to August (winter), but temperatures averaging 22C to 27C.</weather>
+  </city>
+  <city>
+    <id>8</id>
+	<name>Porto Alegre</name>
+    <stadium>Estádio Beira-Rio</stadium>
+    <imageName>city8.jpg</imageName>
+	<imageNameBig>city8_big.jpg</imageNameBig>
+	<clubs>
+      <club>Sport Club Internacional</club>
+    </clubs>
+    <history></history>
+    <weather>Being late autumn in south Brazil, expect some cold days with minimum temperatures of between 5C and 20C. The good bews is that it can sometimes reach the late 20s too.</weather>
+  </city>
+  <city>
+    <id>9</id>
+	<name>Recife</name>
+    <stadium>Arena Pernambuco</stadium>
+    <imageName>city9.jpg</imageName>
+	<imageNameBig>city9_big.jpg</imageNameBig>
+	<clubs>
+      <club>Clube Náutico Capibaribe</club>
+    </clubs>
+    <history></history>
+    <weather>Recife lies a mere eight degrees south of the equator, meaning the temperature is unlikely to drop below 20C, even in the "winter" months. However, the World Cup will be in the middle of the rainy season, and when it rains in Recife, it really rains.</weather>
+  </city>
+  <city>
+    <id>10</id>
+	<name>Rio de Janeiro</name>
+	<stadium>Estádio do Maracanã</stadium>
+	<imageName>city10.jpg</imageName>
+	<imageNameBig>city10_big.jpg</imageNameBig>
+	<clubs>
+		<club>Flamengo</club>
+		<club>Fluminense</club>
+	</clubs>
+	<history></history>
+	<weather>June and July may be winter in Rio, but the average high is still 25C, and some days nudge over 30C. This is the dry season, so leave the brolly at home.</weather>
+  </city>
+  <city>
+    <id>11</id>
+	<name>Salvador</name>
+    <stadium>Arena Fonte Nova</stadium>
+    <imageName>city11.jpg</imageName>
+	<imageNameBig>city11_big.jpg</imageNameBig>
+	<clubs>
+      <club>Esporte Clube Bahia</club>
+    </clubs>
+    <history></history>
+    <weather>it can rain for days on end in the June-August wet season. The good news is that temperatures never fall below 20C, so when it's not raining the "winter" temperatures are perfect for enjoying the city's many fine beaches.</weather>
+  </city>
+  <city>
+  	<id>12</id>
+	<name>São Paulo</name>
+  	<stadium>Arena Corinthians</stadium>
+  	<imageName>city12.jpg</imageName>
+	<imageNameBig>city12_big.jpg</imageNameBig>
+	<clubs>
+  		<club>Corinthians</club>
+  	</clubs>
+  	<history></history>
+  	<weather>Pretty crazy - it can feel like summer and winter in the same day. During the World Cup, it will be quite cool – it can fall as low as 5C but may reach 20C. There is little chance of rain.</weather>
+  </city>  
+</cities>
